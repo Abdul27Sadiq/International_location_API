@@ -1,0 +1,2122 @@
+U.A.E,United Arab Emirates
+Maldives,Maldives
+Mauritius,Mauritius
+Thailand,Thailand
+Singapore,Singapore
+Bali,Indonesia
+Malaysia,Malaysia
+Vietnam,Vietnam
+Europe,Europe
+Kazakistan,Kazakhstan
+Laos,Laos
+Azerbaijan,Azerbaijan
+Turkey,Turkey
+Iceland,Iceland
+Norway,Norway
+Bora Bora Island,French Polynesia
+Cambodia,Cambodia
+Sri Lanka,Sri Lanka
+United Kingdom,United Kingdom
+Qatar,Qatar
+Kuwait,Kuwait
+Australia,Australia
+France,France
+Switzerland,Switzerland
+Georgia,Georgia
+Serbia,Serbia
+Bhutan,Bhutan
+Hong Kong,Hong Kong
+Russia,Russia
+Burj Khalifa,U.A.E,United Arab Emirates
+Sheikh Zayed Grand Mosque,U.A.E,United Arab Emirates
+Palm Jumeirah,U.A.E,United Arab Emirates
+The Dubai Mall,U.A.E,United Arab Emirates
+Dubai Marina,U.A.E,United Arab Emirates
+Burj Al Arab,U.A.E,United Arab Emirates
+Jumeirah Beach,U.A.E,United Arab Emirates
+Dubai Creek,U.A.E,United Arab Emirates
+Al Fahidi Historical Neighbourhood,U.A.E,United Arab Emirates
+Dubai Frame,U.A.E,United Arab Emirates
+Yas Island,U.A.E,United Arab Emirates
+Ferrari World Abu Dhabi,U.A.E,United Arab Emirates
+Warner Bros World Abu Dhabi,U.A.E,United Arab Emirates
+Qasr Al Watan,U.A.E,United Arab Emirates
+Emirates Palace,U.A.E,United Arab Emirates
+Corniche Beach,U.A.E,United Arab Emirates
+Hajar Mountains,U.A.E,United Arab Emirates
+Khor Fakkan Beach,U.A.E,United Arab Emirates
+Al Ain Oasis,U.A.E,United Arab Emirates
+Sir Bani Yas Island,U.A.E,United Arab Emirates
+Dubai Miracle Garden,U.A.E,United Arab Emirates
+Global Village,U.A.E,United Arab Emirates
+IMG Worlds of Adventure,U.A.E,United Arab Emirates
+Aquaventure Waterpark,U.A.E,United Arab Emirates
+Ski Dubai,U.A.E,United Arab Emirates
+Dubai Opera,U.A.E,United Arab Emirates
+Etihad Museum,U.A.E,United Arab Emirates
+The Green Planet,U.A.E,United Arab Emirates
+Ras Al Khor Wildlife Sanctuary,U.A.E,United Arab Emirates
+Dubai Aquarium & Underwater Zoo,U.A.E,United Arab Emirates
+Mall of the Emirates,U.A.E,United Arab Emirates
+La Mer Beach,U.A.E,United Arab Emirates
+Al Qudra Lakes,U.A.E,United Arab Emirates
+Hatta Dam,U.A.E,United Arab Emirates
+Al Seef,U.A.E,United Arab Emirates
+Museum of the Future,U.A.E,United Arab Emirates
+Jebel Hafeet,U.A.E,United Arab Emirates
+Yas Waterworld,U.A.E,United Arab Emirates
+Abu Dhabi Falcon Hospital,U.A.E,United Arab Emirates
+Dubai Parks and Resorts,U.A.E,United Arab Emirates
+Al Majaz Waterfront,U.A.E,United Arab Emirates
+Sharjah Museum of Islamic Civilization,U.A.E,United Arab Emirates
+Ajman Museum,U.A.E,United Arab Emirates
+Fujairah Fort,U.A.E,United Arab Emirates
+Wadi Wurayah,U.A.E,United Arab Emirates
+Al Zorah Nature Reserve,U.A.E,United Arab Emirates
+Dubai Autodrome,U.A.E,United Arab Emirates
+Ain Dubai (Dubai Eye),U.A.E,United Arab Emirates
+The Lost Chambers Aquarium,U.A.E,United Arab Emirates
+Malé Local Market,Maldives,Maldives,Malé
+Artificial Beach,Maldives,Maldives,Malé
+National Museum,Maldives,Maldives,Malé
+Grand Friday Mosque,Maldives,Maldives,Malé
+Vaadhoo Island,Maldives,Maldives,Raa Atoll
+Banana Reef,Maldives,Maldives,North Malé Atoll
+Maafushi Island,Maldives,Maldives,Kaafu Atoll
+Biyadhoo Island,Maldives,Maldives,South Malé Atoll
+Hulhumalé,Maldives,Maldives,Malé
+COMO Cocoa Island,Maldives,Maldives,South Malé Atoll
+Baros Island,Maldives,Maldives,North Malé Atoll
+Mirihi Island,Maldives,Maldives,Alif Dhaal Atoll
+Fihalhohi Island,Maldives,Maldives,South Malé Atoll
+Utheemu Ganduvaru,Maldives,Maldives,Haa Alif Atoll
+HP Reef,Maldives,Maldives,North Malé Atoll
+Manta Point,Maldives,Maldives,South Malé Atoll
+Alimatha Island,Maldives,Maldives,Vaavu Atoll
+Hanifaru Bay,Maldives,Maldives,Baa Atoll
+Fuvahmulah,Maldives,Maldives,Gnaviyani Atoll
+Thulusdhoo Island,Maldives,Maldives,Kaafu Atoll
+Dhigurah Island,Maldives,Maldives,Alif Dhaal Atoll
+Kuredu Island,Maldives,Maldives,Lhaviyani Atoll
+Veligandu Island,Maldives,Maldives,Alif Alif Atoll
+Sun Island,Maldives,Maldives,Alif Dhaal Atoll
+Huvafen Fushi,Maldives,Maldives,North Malé Atoll
+Rangali Island,Maldives,Maldives,Alif Dhaal Atoll
+Dhigurah Island,Maldives,Maldives,Alif Dhaal Atoll
+Gulhi Island,Maldives,Maldives,Kaafu Atoll
+Bathala Island,Maldives,Maldives,Alif Alif Atoll
+Kandolhu Island,Maldives,Maldives,Alif Dhaal Atoll
+Dhonveli Beach,Maldives,Maldives,North Malé Atoll
+Kuda Huraa Island,Maldives,Maldives,North Malé Atoll
+Dhigufinolhu Island,Maldives,Maldives,South Malé Atoll
+Ellaidhoo Island,Maldives,Maldives,Alif Alif Atoll
+Mathiveri Island,Maldives,Maldives,Alif Alif Atoll
+Guraidhoo Island,Maldives,Maldives,South Malé Atoll
+Huraa Island,Maldives,Maldives,Kaafu Atoll
+Himmafushi Island,Maldives,Maldives,Kaafu Atoll
+Rasdhoo Island,Maldives,Maldives,Alif Alif Atoll
+Thoddoo Island,Maldives,Maldives,Alif Alif Atoll
+Ukulhas Island,Maldives,Maldives,Alif Alif Atoll
+Dhiffushi Island,Maldives,Maldives,Kaafu Atoll
+Dhiddhoo Island,Maldives,Maldives,Haa Alif Atoll
+Kelaa Island,Maldives,Maldives,Haa Alif Atoll
+Nilandhoo Island,Maldives,Maldives,Faafu Atoll
+Dharavandhoo Island,Maldives,Maldives,Baa Atoll
+Eydhafushi Island,Maldives,Maldives,Baa Atoll
+Fulhadhoo Island,Maldives,Maldives,Baa Atoll
+Dhiggaru Island,Maldives,Maldives,Meemu Atoll
+Kolhufushi Island,Maldives,Maldives,Meemu Atoll
+Muli Island,Maldives,Maldives,Meemu Atoll
+Veymandoo Island,Maldives,Maldives,Thaa Atoll
+Madifushi Island,Maldives,Maldives,Thaa Atoll
+Kunahandhoo Island,Maldives,Maldives,Thaa Atoll
+Hithadhoo Island,Maldives,Maldives,Addu Atoll
+Gan Island,Maldives,Maldives,Addu Atoll
+Maradhoo Island,Maldives,Maldives,Addu Atoll
+Feydhoo Island,Maldives,Maldives,Addu Atoll
+Le Morne Brabant,Mauritius,Mauritius,Le Morne
+Chamarel Seven Colored Earth,Mauritius,Mauritius,Chamarel
+Black River Gorges National Park,Mauritius,Mauritius,Plaine Wilhems
+Port Louis Central Market,Mauritius,Mauritius,Port Louis
+Pamplemousses Botanical Garden,Mauritius,Mauritius,Pamplemousses
+Île aux Cerfs,Mauritius,Mauritius,East Coast
+Grand Bassin,Mauritius,Mauritius,Savanne
+Flic en Flac Beach,Mauritius,Mauritius,Flic en Flac
+Trou aux Cerfs,Mauritius,Mauritius,Curepipe
+Blue Bay Marine Park,Mauritius,Mauritius,Blue Bay
+La Vanille Nature Park,Mauritius,Mauritius,Rivière des Anguilles
+Tamarin Beach,Mauritius,Mauritius,Tamarin
+Rochester Falls,Mauritius,Mauritius,Souillac
+Eureka House,Mauritius,Mauritius,Moka
+Domaine de Chazal,Mauritius,Mauritius,Saint Pierre
+Frederica Nature Reserve,Mauritius,Mauritius,Bel Ombre
+Le Pouce Mountain,Mauritius,Mauritius,Port Louis
+Ile aux Aigrettes,Mauritius,Mauritius,Mahebourg
+Gris Gris Beach,Mauritius,Mauritius,Souillac
+Pont Naturel,Mauritius,Mauritius,Souillac
+L'Aventure du Sucre,Mauritius,Mauritius,Pamplemousses
+Château de Labourdonnais,Mauritius,Mauritius,Mapou
+Tamarind Falls,Mauritius,Mauritius,Henrietta
+Albion Lighthouse,Mauritius,Mauritius,Albion
+Grand Gaube Beach,Mauritius,Mauritius,Grand Gaube
+Ile aux Benitiers,Mauritius,Mauritius,La Gaulette
+La Cuvette Beach,Mauritius,Mauritius,Grand Baie
+Bois Cheri Tea Plantation,Mauritius,Mauritius,Bois Cheri
+Martello Tower,Mauritius,Mauritius,La Preneuse
+Macondé Viewpoint,Mauritius,Mauritius,Le Morne
+Gabriel Island,Mauritius,Mauritius,North Coast
+Flat Island,Mauritius,Mauritius,North Coast
+Coin de Mire,Mauritius,Mauritius,North Coast
+Le Souffleur,Mauritius,Mauritius,Souillac
+Rivière Noire Waterfall,Mauritius,Mauritius,Rivière Noire
+Chamarel Waterfall,Mauritius,Mauritius,Chamarel
+Belle Mare Beach,Mauritius,Mauritius,Belle Mare
+Pereybere Beach,Mauritius,Mauritius,Pereybere
+Ile aux Phare,Mauritius,Mauritius,Mahebourg
+Notre Dame Auxiliatrice,Mauritius,Mauritius,Cap Malheureux
+Grand Port Heritage Site,Mauritius,Mauritius,Mahebourg
+Bras d'Eau National Park,Mauritius,Mauritius,Poste Lafayette
+La Nicolière Waterfall,Mauritius,Mauritius,La Nicolière
+Les 7 Cascades,Mauritius,Mauritius,Tamarind Falls
+Le Jardin de Beau Vallon,Mauritius,Mauritius,Beau Vallon
+Exil Wildlife Park,Mauritius,Mauritius,Rivière des Anguilles
+La Vallée des Couleurs,Mauritius,Mauritius,Chamouny
+Grand Palace,Thailand,Thailand,Bangkok
+Wat Arun,Thailand,Thailand,Bangkok
+Chatuchak Weekend Market,Thailand,Thailand,Bangkok
+Wat Pho,Thailand,Thailand,Bangkok
+Khao San Road,Thailand,Thailand,Bangkok
+Damnoen Saduak Floating Market,Thailand,Thailand,Ratchaburi
+Ayutthaya Historical Park,Thailand,Thailand,Ayutthaya
+Phi Phi Islands,Thailand,Thailand,Krabi
+Railay Beach,Thailand,Thailand,Krabi
+Maya Bay,Thailand,Thailand,Krabi
+Phang Nga Bay,Thailand,Thailand,Phang Nga
+Wat Rong Khun,Thailand,Thailand,Chiang Rai
+Doi Suthep,Thailand,Thailand,Chiang Mai
+Chiang Mai Night Bazaar,Thailand,Thailand,Chiang Mai
+Elephant Nature Park,Thailand,Thailand,Chiang Mai
+Pai Canyon,Thailand,Thailand,Pai
+Sukhothai Historical Park,Thailand,Thailand,Sukhothai
+Erawan National Park,Thailand,Thailand,Kanchanaburi
+Death Railway,Thailand,Thailand,Kanchanaburi
+Hua Hin Beach,Thailand,Thailand,Hua Hin
+Pattaya Beach,Thailand,Thailand,Pattaya
+Walking Street,Thailand,Thailand,Pattaya
+Nong Nooch Tropical Garden,Thailand,Thailand,Pattaya
+Koh Samui,Thailand,Thailand,Surat Thani
+Ang Thong National Marine Park,Thailand,Thailand,Surat Thani
+Koh Phangan,Thailand,Thailand,Surat Thani
+Koh Tao,Thailand,Thailand,Surat Thani
+Similan Islands,Thailand,Thailand,Phang Nga
+Khao Sok National Park,Thailand,Thailand,Surat Thani
+Phuket Old Town,Thailand,Thailand,Phuket
+Patong Beach,Thailand,Thailand,Phuket
+Big Buddha Phuket,Thailand,Thailand,Phuket
+Koh Lanta,Thailand,Thailand,Krabi
+Koh Chang,Thailand,Thailand,Trat
+Koh Kood,Thailand,Thailand,Trat
+Koh Mak,Thailand,Thailand,Trat
+Koh Samet,Thailand,Thailand,Rayong
+Khao Yai National Park,Thailand,Thailand,Nakhon Ratchasima
+Phimai Historical Park,Thailand,Thailand,Nakhon Ratchasima
+Ubon Ratchathani Candle Festival,Thailand,Thailand,Ubon Ratchathani
+Phu Kradueng National Park,Thailand,Thailand,Loei
+Phanom Rung Historical Park,Thailand,Thailand,Buriram
+Khao Luang Cave,Thailand,Thailand,Phetchaburi
+Prasat Hin Phanom Wan,Thailand,Thailand,Nakhon Ratchasima
+Wat Phra That Lampang Luang,Thailand,Thailand,Lampang
+Doi Inthanon National Park,Thailand,Thailand,Chiang Mai
+Mae Sa Valley,Thailand,Thailand,Chiang Mai
+Golden Triangle,Thailand,Thailand,Chiang Rai
+Koh Lipe,Thailand,Thailand,Satun
+Koh Yao Noi,Thailand,Thailand,Phang Nga
+Koh Phi Phi Don,Thailand,Thailand,Krabi
+Koh Hong,Thailand,Thailand,Krabi
+Koh Mook,Thailand,Thailand,Trang
+Emerald Cave,Thailand,Thailand,Trang
+Koh Bulon Leh,Thailand,Thailand,Satun
+Koh Tarutao,Thailand,Thailand,Satun
+Koh Phayam,Thailand,Thailand,Ranong
+Koh Jum,Thailand,Thailand,Krabi
+Koh Yao Yai,Thailand,Thailand,Phang Nga
+Koh Nang Yuan,Thailand,Thailand,Surat Thani
+Koh Wai,Thailand,Thailand,Trat
+Koh Mak,Thailand,Thailand,Trat
+Koh Kradan,Thailand,Thailand,Trang
+Koh Adang,Thailand,Thailand,Satun
+Koh Ra,Thailand,Thailand,Phang Nga
+Koh Bon,Thailand,Thailand,Phang Nga
+Koh Surin,Thailand,Thailand,Phang Nga
+Koh Similan,Thailand,Thailand,Phang Nga
+Koh Tachai,Thailand,Thailand,Phang Nga
+Koh Rok,Thailand,Thailand,Krabi
+Koh Ha,Thailand,Thailand,Krabi
+Koh Ngai,Thailand,Thailand,Trang
+Koh Maa,Thailand,Thailand,Krabi
+Koh Poda,Thailand,Thailand,Krabi
+Koh Lanta Yai,Thailand,Thailand,Krabi
+Koh Lanta Noi,Thailand,Thailand,Krabi
+Koh Yao Noi,Thailand,Thailand,Phang Nga
+Koh Yao Yai,Thailand,Thailand,Phang Nga
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Kho Khao,Thailand,Thailand,Phang Nga
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Muk,Thailand,Thailand,Trang
+Koh Kradan,Thailand,Thailand,Trang
+Koh Libong,Thailand,Thailand,Trang
+Koh Sukorn,Thailand,Thailand,Trang
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Mook,Thailand,Thailand,Trang
+Koh Ngai,Thailand,Thailand,Trang
+Koh Lanta,Thailand,Thailand,Krabi
+Koh Phi Phi,Thailand,Thailand,Krabi
+Koh Yao,Thailand,Thailand,Phang Nga
+Koh Chang,Thailand,Thailand,Trat
+Koh Mak,Thailand,Thailand,Trat
+Koh Kood,Thailand,Thailand,Trat
+Koh Samet,Thailand,Thailand,Rayong
+Koh Si Chang,Thailand,Thailand,Chonburi
+Koh Lan,Thailand,Thailand,Chonburi
+Koh Samui,Thailand,Thailand,Surat Thani
+Koh Phangan,Thailand,Thailand,Surat Thani
+Koh Tao,Thailand,Thailand,Surat Thani
+Koh Nang Yuan,Thailand,Thailand,Surat Thani
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Ra,Thailand,Thailand,Phang Nga
+Koh Bon,Thailand,Thailand,Phang Nga
+Koh Surin,Thailand,Thailand,Phang Nga
+Koh Similan,Thailand,Thailand,Phang Nga
+Koh Tachai,Thailand,Thailand,Phang Nga
+Koh Rok,Thailand,Thailand,Krabi
+Koh Ha,Thailand,Thailand,Krabi
+Koh Ngai,Thailand,Thailand,Trang
+Koh Maa,Thailand,Thailand,Krabi
+Koh Poda,Thailand,Thailand,Krabi
+Koh Lanta Yai,Thailand,Thailand,Krabi
+Koh Lanta Noi,Thailand,Thailand,Krabi
+Koh Yao Noi,Thailand,Thailand,Phang Nga
+Koh Yao Yai,Thailand,Thailand,Phang Nga
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Kho Khao,Thailand,Thailand,Phang Nga
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Muk,Thailand,Thailand,Trang
+Koh Kradan,Thailand,Thailand,Trang
+Koh Libong,Thailand,Thailand,Trang
+Koh Sukorn,Thailand,Thailand,Trang
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Mook,Thailand,Thailand,Trang
+Koh Ngai,Thailand,Thailand,Trang
+Koh Lanta,Thailand,Thailand,Krabi
+Koh Phi Phi,Thailand,Thailand,Krabi
+Koh Yao,Thailand,Thailand,Phang Nga
+Koh Chang,Thailand,Thailand,Trat
+Koh Mak,Thailand,Thailand,Trat
+Koh Kood,Thailand,Thailand,Trat
+Koh Samet,Thailand,Thailand,Rayong
+Koh Si Chang,Thailand,Thailand,Chonburi
+Koh Lan,Thailand,Thailand,Chonburi
+Koh Samui,Thailand,Thailand,Surat Thani
+Koh Phangan,Thailand,Thailand,Surat Thani
+Koh Tao,Thailand,Thailand,Surat Thani
+Koh Nang Yuan,Thailand,Thailand,Surat Thani
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Ra,Thailand,Thailand,Phang Nga
+Koh Bon,Thailand,Thailand,Phang Nga
+Koh Surin,Thailand,Thailand,Phang Nga
+Koh Similan,Thailand,Thailand,Phang Nga
+Koh Tachai,Thailand,Thailand,Phang Nga
+Koh Rok,Thailand,Thailand,Krabi
+Koh Ha,Thailand,Thailand,Krabi
+Koh Ngai,Thailand,Thailand,Trang
+Koh Maa,Thailand,Thailand,Krabi
+Koh Poda,Thailand,Thailand,Krabi
+Koh Lanta Yai,Thailand,Thailand,Krabi
+Koh Lanta Noi,Thailand,Thailand,Krabi
+Koh Yao Noi,Thailand,Thailand,Phang Nga
+Koh Yao Yai,Thailand,Thailand,Phang Nga
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Kho Khao,Thailand,Thailand,Phang Nga
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Muk,Thailand,Thailand,Trang
+Koh Kradan,Thailand,Thailand,Trang
+Koh Libong,Thailand,Thailand,Trang
+Koh Sukorn,Thailand,Thailand,Trang
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Mook,Thailand,Thailand,Trang
+Koh Ngai,Thailand,Thailand,Trang
+Koh Lanta,Thailand,Thailand,Krabi
+Koh Phi Phi,Thailand,Thailand,Krabi
+Koh Yao,Thailand,Thailand,Phang Nga
+Koh Chang,Thailand,Thailand,Trat
+Koh Mak,Thailand,Thailand,Trat
+Koh Kood,Thailand,Thailand,Trat
+Koh Samet,Thailand,Thailand,Rayong
+Koh Si Chang,Thailand,Thailand,Chonburi
+Koh Lan,Thailand,Thailand,Chonburi
+Koh Samui,Thailand,Thailand,Surat Thani
+Koh Phangan,Thailand,Thailand,Surat Thani
+Koh Tao,Thailand,Thailand,Surat Thani
+Koh Nang Yuan,Thailand,Thailand,Surat Thani
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Ra,Thailand,Thailand,Phang Nga
+Koh Bon,Thailand,Thailand,Phang Nga
+Koh Surin,Thailand,Thailand,Phang Nga
+Koh Similan,Thailand,Thailand,Phang Nga
+Koh Tachai,Thailand,Thailand,Phang Nga
+Koh Rok,Thailand,Thailand,Krabi
+Koh Ha,Thailand,Thailand,Krabi
+Koh Ngai,Thailand,Thailand,Trang
+Koh Maa,Thailand,Thailand,Krabi
+Koh Poda,Thailand,Thailand,Krabi
+Koh Lanta Yai,Thailand,Thailand,Krabi
+Koh Lanta Noi,Thailand,Thailand,Krabi
+Koh Yao Noi,Thailand,Thailand,Phang Nga
+Koh Yao Yai,Thailand,Thailand,Phang Nga
+Koh Phrathong,Thailand,Thailand,Phang Nga
+Koh Kho Khao,Thailand,Thailand,Phang Nga
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Muk,Thailand,Thailand,Trang
+Koh Kradan,Thailand,Thailand,Trang
+Koh Libong,Thailand,Thailand,Trang
+Koh Sukorn,Thailand,Thailand,Trang
+Koh Lao Liang,Thailand,Thailand,Trang
+Koh Mook,Thailand,Thailand,Trang
+Koh Ngai,Thailand,Thailand,Trang
+Gardens by the Bay,Gardens by the Bay,Singapore,Nature/Landmark
+Marina Bay Sands,Marina Bay Sands,Singapore,Landmark/Luxury
+Sentosa Island,Sentosa Island,Singapore,Resort/Adventure
+Universal Studios Singapore,Universal Studios Singapore,Singapore,Theme Park
+Merlion Park,Merlion Park,Singapore,Landmark
+Singapore Zoo,Singapore Zoo,Singapore,Wildlife
+Night Safari,Night Safari,Singapore,Wildlife
+River Wonders,River Wonders,Singapore,Wildlife
+Jurong Bird Paradise,Jurong Bird Paradise,Singapore,Wildlife
+Clarke Quay,Clarke Quay,Singapore,Nightlife/Dining
+Chinatown,Chinatown,Singapore,Culture
+Little India,Little India,Singapore,Culture
+Kampong Glam (Arab Street),Kampong Glam,Singapore,Culture
+Orchard Road,Orchard Road,Singapore,Shopping
+Singapore Flyer,Singapore Flyer,Singapore,Landmark
+ArtScience Museum,ArtScience Museum,Singapore,Art/Tech
+National Gallery Singapore,National Gallery Singapore,Singapore,Art
+Singapore Botanic Gardens,Singapore Botanic Gardens,Singapore,Nature/UNESCO
+Jewel Changi Airport,Jewel Changi Airport,Singapore,Landmark/Shopping
+Haji Lane,Haji Lane,Singapore,Arts/Shopping
+Fort Canning Park,Fort Canning Park,Singapore,History/Nature
+East Coast Park,East Coast Park,Singapore,Recreation
+Pulau Ubin,Pulau Ubin,Singapore,Nature/Adventure
+Haw Par Villa,Haw Par Villa,Singapore,Culture/Theme Park
+S.E.A. Aquarium,S.E.A. Aquarium,Singapore,Marine Life
+Lau Pa Sat,Lau Pa Sat,Singapore,Food
+Sri Mariamman Temple,Sri Mariamman Temple,Singapore,Culture/Religion
+Sultan Mosque,Sultan Mosque,Singapore,Culture/Religion
+Peranakan Museum,Peranakan Museum,Singapore,Culture/History
+Asian Civilisations Museum,Asian Civilisations Museum,Singapore,History
+Helix Bridge,Helix Bridge,Singapore,Landmark
+Southern Ridges,Southern Ridges,Singapore,Nature/Hiking
+MacRitchie Reservoir,MacRitchie Reservoir,Singapore,Nature
+Bukit Timah Nature Reserve,Bukit Timah Nature Reserve,Singapore,Nature
+Marina Barrage,Marina Barrage,Singapore/Nature
+Keppel Island,Keppel Island,Singapore,Recreation
+Katong & Joo Chiat,Katong & Joo Chiat,Singapore,Culture/Food
+Tiong Bahru,Tiong Bahru,Singapore,Culture/Heritage
+Demsey Hill,Demsey Hill,Singapore,Dining/Shopping
+Science Centre Singapore,Science Centre Singapore,Singapore,Science/Kids
+Lee Kong Chian Natural History Museum,Lee Kong Chian Natural History Museum,Singapore,Science
+Battlebox at Fort Canning,Battlebox at Fort Canning,Singapore,History
+Changi Chapel and Museum,Changi Chapel and Museum,Singapore,History
+Sungei Buloh Wetland Reserve,Sungei Buloh Wetland Reserve,Singapore,Nature
+Coney Island,Coney Island,Singapore,Nature
+Pasir Ris Park,Pasir Ris Park,Singapore,Recreation
+Labrador Nature Reserve,Labrador Nature Reserve,Singapore,Nature
+Chinese & Japanese Gardens,Chinese & Japanese Gardens,Singapore,Nature
+Kusu Island,Kusu Island,Singapore,Nature/Religion
+St. John's Island,St. John's Island,Singapore,Nature
+Siloso Beach,Siloso Beach,Singapore,Beach
+Palawan Beach,Palawan Beach,Singapore,Beach
+Adventure Cove Waterpark,Adventure Cove Waterpark,Singapore,Water Park
+iFly Singapore,iFly Singapore,Singapore,Adventure
+Madame Tussauds Singapore,Madame Tussauds Singapore,Singapore,Entertainment
+Wings of Time,Wings of Time,Singapore,Show
+Skyline Luge Sentosa,Skyline Luge Sentosa,Singapore,Adventure
+Mega Adventure Park,Mega Adventure Park,Singapore,Adventure
+Singapore Cable Car,Singapore Cable Car,Singapore,Views
+Van Gogh: The Immersive Experience,Van Gogh: The Immersive Experience,Singapore,Art
+Snow City Singapore,Snow City Singapore,Singapore,Entertainment
+KidZania Singapore,KidZania Singapore,Singapore,Kids
+The Maritime Experiential Museum,The Maritime Experiential Museum,Singapore,History
+Butterfly Park & Insect Kingdom,Butterfly Park & Insect Kingdom,Singapore,Nature
+Museum of Ice Cream Singapore,Museum of Ice Cream Singapore,Singapore,Fun
+Red Dot Design Museum,Red Dot Design Museum,Singapore,Design
+Indian Heritage Centre,Indian Heritage Centre,Singapore,Culture
+Malay Heritage Centre,Malay Heritage Centre,Singapore,Culture
+Buddha Tooth Relic Temple,Buddha Tooth Relic Temple,Singapore,Religion
+CHIJMES,CHIJMES,Singapore,History/Dining
+Esplanade – Theatres on the Bay,Esplanade – Theatres on the Bay,Singapore,Arts
+Victoria Theatre and Concert Hall,Victoria Theatre and Concert Hall,Singapore,Arts
+Wild Wild Wet,Wild Wild Wet,Singapore,Water Park
+HeadRock VR,HeadRock VR,Singapore,Virtual Reality
+Ultimate Drive Singapore,Ultimate Drive Singapore,Singapore,Adventure
+Jurong Lake Gardens,Jurong Lake Gardens,Singapore,Nature
+HortPark,HortPark,Singapore,Nature
+Cloud Forest (Gardens by the Bay),Cloud Forest,Singapore,Nature
+Flower Dome (Gardens by the Bay),Flower Dome,Singapore,Nature
+Supertree Grove (Gardens by the Bay),Supertree Grove,Singapore,Nature
+OCBC Skyway (Gardens by the Bay),OCBC Skyway,Singapore,Nature
+Singapore Discovery Centre,Singapore Discovery Centre,Singapore,Education
+Live Turtle & Tortoise Museum,Live Turtle & Tortoise Museum,Singapore,Wildlife
+MINT Museum of Toys,MINT Museum of Toys,Singapore,Collectibles
+Changi Jurassic Mile,Changi Jurassic Mile,Singapore,Recreation
+Kampong Lorong Buangkok,Kampong Lorong Buangkok,Singapore,Heritage
+Siloso Point Fort,Siloso Point Fort,Singapore,History
+Sentosa Nature Discovery,Sentosa Nature Discovery,Singapore,Nature
+Singapore River Cruise,Singapore River Cruise,Singapore,Tour
+Duck Tours Singapore,Duck Tours Singapore,Singapore,Tour
+Singapore Food Tour,Singapore Food Tour,Singapore,Food
+Singapore War Trail,Singapore War Trail,Singapore,History
+Singapore Bike Tour,Singapore Bike Tour,Singapore,Adventure
+Singapore Helicopter Tour,Singapore Helicopter Tour,Singapore,Tour
+Singapore Yacht Charter,Singapore Yacht Charter,Singapore,Luxury
+Singapore Scuba Diving,Singapore Scuba Diving,Singapore,Adventure
+Singapore Sunset Cruise,Singapore Sunset Cruise,Singapore,Tour
+Tanah Lot Temple,Tanah Lot Temple,Indonesia,Landmark/Religion
+Uluwatu Temple,Uluwatu Temple,Indonesia,Landmark/Religion
+Besakih Temple,Besakih Temple,Indonesia,Religion/Culture
+Ubud Monkey Forest,Ubud Monkey Forest,Indonesia,Nature/Wildlife
+Tegallalang Rice Terraces,Tegallalang Rice Terraces,Indonesia,Nature
+Mount Batur,Mount Batur,Indonesia,Adventure/Nature
+Tirta Empul Temple,Tirta Empul Temple,Indonesia,Religion/Culture
+Goa Gajah (Elephant Cave),Goa Gajah,Indonesia,History/Culture
+Taman Ayun Temple,Taman Ayun Temple,Indonesia,Religion
+Ulun Danu Beratan Temple,Ulun Danu Beratan Temple,Indonesia,Landmark/Religion
+Seminyak Beach,Seminyak Beach,Indonesia,Beach
+Kuta Beach,Kuta Beach,Indonesia,Beach
+Nusa Dua Beach,Nusa Dua Beach,Indonesia,Beach/Resort
+Jimbaran Bay,Jimbaran Bay,Indonesia,Beach/Dining
+Padang Padang Beach,Padang Padang Beach,Indonesia,Beach
+Sekumpul Waterfall,Sekumpul Waterfall,Indonesia,Nature
+Gitgit Waterfall,Gitgit Waterfall,Indonesia,Nature
+Tibumana Waterfall,Tibumana Waterfall,Indonesia,Nature
+Sidemen Valley,Sidemen Valley,Indonesia,Nature
+Campuhan Ridge Walk,Campuhan Ridge Walk,Indonesia,Nature/Hiking
+Bali Safari and Marine Park,Bali Safari and Marine Park,Indonesia,Wildlife
+Waterbom Bali,Waterbom Bali,Indonesia,Water Park
+Bali Bird Park,Bali Bird Park,Indonesia,Wildlife
+Garuda Wisnu Kencana Cultural Park,Garuda Wisnu Kencana,Indonesia,Culture/Art
+Bali Museum,Bali Museum,Indonesia,History/Culture
+Neka Art Museum,Neka Art Museum,Indonesia,Art
+Ubud Art Market,Ubud Art Market,Indonesia,Arts/Shopping
+Bali Pulina,Bali Pulina,Indonesia,Agro-Tourism
+Bali Treetop Adventure Park,Bali Treetop Adventure Park,Indonesia,Adventure
+Ayung River Rafting,Ayung River Rafting,Indonesia,Adventure
+Mount Agung,Mount Agung,Indonesia,Adventure/Nature
+Lempuyang Temple,Lempuyang Temple,Indonesia,Religion/Views
+Tirta Gangga,Tirta Gangga,Indonesia,History/Nature
+Devdan Show,Devdan Show,Indonesia,Culture/Entertainment
+Kecak Fire Dance,Kecak Fire Dance,Indonesia,Culture/Performance
+Bali Swing,Bali Swing,Indonesia,Adventure/Photography
+Nusa Penida Island,Nusa Penida Island,Indonesia,Adventure/Nature
+Angel's Billabong,Angel's Billabong,Indonesia,Nature
+Kelingking Beach,Kelingking Beach,Indonesia,Beach/Views
+Sanur Beach,Sanur Beach,Indonesia,Beach
+Bali Green School,Bali Green School,Indonesia,Education
+Bali Equestrian Centre,Bali Equestrian Centre,Indonesia,Sports
+Bali Wake Park,Bali Wake Park,Indonesia,Sports
+Bali Cycling Tours,Bali Cycling Tours,Indonesia,Adventure
+Bali Snorkeling Tours,Bali Snorkeling Tours,Indonesia,Adventure
+Bali Cooking Classes,Bali Cooking Classes,Indonesia,Culture/Food
+Bali Spa Retreats,Bali Spa Retreats,Indonesia,Wellness
+Bali Surfing Lessons,Bali Surfing Lessons,Indonesia,Sports
+Bali Beach Clubs,Bali Beach Clubs,Indonesia,Nightlife
+Bali Cultural Shows,Bali Cultural Shows,Indonesia,Culture
+Petronas Twin Towers,Kuala Lumpur,Malaysia
+Batu Caves,Selangor,Malaysia
+Langkawi Sky Cab,Kedah,Malaysia
+Penang Hill,Penang,Malaysia
+George Town UNESCO Site,Penang,Malaysia
+Perhentian Islands,Terengganu,Malaysia
+Taman Negara National Park,Pahang,Malaysia
+Genting Highlands,Pahang,Malaysia
+Cameron Highlands,Pahang,Malaysia
+Mount Kinabalu,Sabah,Malaysia
+Sipadan Island,Sabah,Malaysia
+Mulu Caves,Sarawak,Malaysia
+Kek Lok Si Temple,Penang,Malaysia
+Melaka Historic City,Malacca,Malaysia
+Sunway Lagoon,Selangor,Malaysia
+Sepilok Orangutan Centre,Sabah,Malaysia
+Redang Island,Terengganu,Malaysia
+Tioman Island,Pahang,Malaysia
+Bako National Park,Sarawak,Malaysia
+Royal Belum State Park,Perak,Malaysia
+Putrajaya Mosque,Putrajaya,Malaysia
+Legoland Malaysia,Johor,Malaysia
+Kuala Lumpur Tower,Kuala Lumpur,Malaysia
+Semenggoh Wildlife Centre,Sarawak,Malaysia
+Tunku Abdul Rahman Park,Sabah,Malaysia
+Pulau Payar Marine Park,Kedah,Malaysia
+Fraser's Hill,Pahang,Malaysia
+Kinabatangan River,Sabah,Malaysia
+Kuala Gandah Elephant Sanctuary,Pahang,Malaysia
+Kapas Island,Terengganu,Malaysia
+Pangkor Island,Perak,Malaysia
+Bukit Bintang,Kuala Lumpur,Malaysia
+Suria KLCC,Kuala Lumpur,Malaysia
+Batang Ai National Park,Sarawak,Malaysia
+Tanjung Puting National Park,Sabah,Malaysia
+Danum Valley Conservation Area,Sabah,Malaysia
+Mantanani Islands,Sabah,Malaysia
+Turtle Islands Park,Sabah,Malaysia
+Kuching Waterfront,Sarawak,Malaysia
+The Habitat Penang,Penang,Malaysia
+Berjaya Times Square,Kuala Lumpur,Malaysia
+Aquaria KLCC,Kuala Lumpur,Malaysia
+KL Bird Park,Kuala Lumpur,Malaysia
+Islamic Arts Museum Malaysia,Kuala Lumpur,Malaysia
+Baba Nyonya Heritage Museum,Malacca,Malaysia
+Sarawak Cultural Village,Sarawak,Malaysia
+Sabah State Museum,Sabah,Malaysia
+Penang National Park,Penang,Malaysia
+Endau-Rompin National Park,Johor,Malaysia
+Gunung Mulu National Park,Sarawak,Malaysia
+Pulau Sipadan,Sabah,Malaysia
+Pulau Mabul,Sabah,Malaysia
+Pulau Kapas,Terengganu,Malaysia
+Pulau Perhentian,Terengganu,Malaysia
+Pulau Tioman,Pahang,Malaysia
+Pulau Redang,Terengganu,Malaysia
+Pulau Langkawi,Kedah,Malaysia
+Pulau Pangkor,Perak,Malaysia
+Pulau Tenggol,Terengganu,Malaysia
+Pulau Rawa,Johor,Malaysia
+Pulau Besar,Malacca,Malaysia
+Pulau Ketam,Selangor,Malaysia
+Pulau Gaya,Sabah,Malaysia
+Pulau Tiga,Sabah,Malaysia
+Pulau Labuan,Labuan,Malaysia
+Pulau Layang-Layang,Sabah,Malaysia
+Pulau Mataking,Sabah,Malaysia
+Pulau Pom Pom,Sabah,Malaysia
+Pulau Mantanani,Sabah,Malaysia
+Pulau Sapi,Sabah,Malaysia
+Pulau Manukan,Sabah,Malaysia
+Pulau Mamutik,Sabah,Malaysia
+Pulau Sulug,Sabah,Malaysia
+Pulau Dinawan,Sabah,Malaysia
+Pulau Sepanggar,Sabah,Malaysia
+Pulau Upeh,Malacca,Malaysia
+Pulau Indah,Selangor,Malaysia
+Pulau Carey,Selangor,Malaysia
+Pulau Ketam,Selangor,Malaysia
+Pulau Klang,Selangor,Malaysia
+Pulau Lumut,Perak,Malaysia
+Pulau Pangkor Laut,Perak,Malaysia
+Pulau Jarak,Perak,Malaysia
+Pulau Sembilan,Perak,Malaysia
+Pulau Talang-Talang,Sarawak,Malaysia
+Pulau Satang,Sarawak,Malaysia
+Pulau Lakei,Sarawak,Malaysia
+Pulau Kukup,Johor,Malaysia
+Pulau Pisang,Johor,Malaysia
+Pulau Aur,Johor,Malaysia
+Pulau Pemanggil,Johor,Malaysia
+Pulau Tinggi,Johor,Malaysia
+Pulau Sibu,Johor,Malaysia
+Pulau Besar,Johor,Malaysia
+Pulau Tengah,Johor,Malaysia
+Pulau Dayang,Johor,Malaysia
+Pulau Lima,Johor,Malaysia
+Pulau Mensirip,Johor,Malaysia
+Pulau Hujung,Johor,Malaysia
+Pulau Merambong,Johor,Malaysia
+Pulau Kukup,Johor,Malaysia
+Pulau Karimun,Johor,Malaysia
+Pulau Batu Puteh,Johor,Malaysia
+Pulau Pisang,Johor,Malaysia
+Pulau Aur,Johor,Malaysia
+Pulau Pemanggil,Johor,Malaysia
+Pulau Tinggi,Johor,Malaysia
+Pulau Sibu,Johor,Malaysia
+Pulau Besar,Johor,Malaysia
+Pulau Tengah,Johor,Malaysia
+Pulau Dayang,Johor,Malaysia
+Pulau Lima,Johor,Malaysia
+Pulau Mensirip,Johor,Malaysia
+Pulau Hujung,Johor,Malaysia
+Pulau Merambong,Johor,Malaysia
+Ha Long Bay (Cruise Adventure),Vietnam,Vietnam,Quang Ninh|Adventure  
+Phong Nha-Ke Bang (Cave Exploration),Vietnam,Vietnam,Quang Binh|Adventure  
+Sapa (Trekking & Homestays),Vietnam,Vietnam,Lao Cai|Adventure  
+Cat Ba Island (Rock Climbing),Vietnam,Vietnam,Hai Phong|Adventure  
+Da Lat (Canyoning),Vietnam,Vietnam,Lam Dong|Adventure  
+Mui Ne (Sandboarding/Kitesurfing),Vietnam,Vietnam,Binh Thuan|Adventure  
+Hai Van Pass (Motorbike Tour),Vietnam,Vietnam,Da Nang|Adventure  
+Six Senses Con Dao,Vietnam,Vietnam,Con Dao|Luxury  
+Amanoi Resort,Vietnam,Vietnam,Ninh Thuan|Luxury  
+InterContinental Da Nang,Vietnam,Vietnam,Da Nang|Luxury  
+The Reverie Saigon,Vietnam,Vietnam,Ho Chi Minh City|Luxury  
+Capella Hanoi,Vietnam,Vietnam,Hanoi|Luxury  
+Hoi An Ancient Town (UNESCO),Vietnam,Vietnam,Quang Nam|Cultural  
+Hue Imperial Citadel (UNESCO),Vietnam,Vietnam,Thua Thien-Hue|Cultural  
+My Son Sanctuary (UNESCO),Vietnam,Vietnam,Quang Nam|Cultural  
+War Remnants Museum,Vietnam,Vietnam,Ho Chi Minh City|Cultural  
+Cu Chi Tunnels,Vietnam,Vietnam,Ho Chi Minh City|Cultural  
+Golden Bridge (Ba Na Hills),Vietnam,Vietnam,Da Nang|Cultural  
+Phu Quoc Island (Beaches),Vietnam,Vietnam,Kien Giang|Beach  
+Nha Trang (Resorts & Diving),Vietnam,Vietnam,Khanh Hoa|Beach  
+Lang Co Beach,Vietnam,Vietnam,Thua Thien-Hue|Beach  
+Con Dao Islands,Vietnam,Vietnam,Ba Ria-Vung Tau|Beach  
+Mekong Delta (River Cruises),Vietnam,Vietnam,Southwest Region|Cultural  
+Trang An Boat Tour,Vietnam,Vietnam,Ninh Binh|Cultural  
+Marble Mountains (Hiking),Vietnam,Vietnam,Da Nang|Adventure  
+Perfume Pagoda (Pilgrimage),Vietnam,Vietnam,Hanoi|Cultural  
+Eiffel Tower,Paris,France  
+Louvre Museum,Paris,France  
+Palace of Versailles,Versailles,France  
+Mont Saint-Michel,Normandy,France  
+Provence Lavender Fields,Provence,France  
+Colosseum,Rome,Italy  
+Leaning Tower of Pisa,Pisa,Italy  
+Venice Canals,Venice,Italy  
+Amalfi Coast,Campania,Italy  
+Pompeii,Naples,Italy  
+Sagrada Família,Barcelona,Spain  
+Park Güell,Barcelona,Spain  
+Alhambra,Granada,Spain  
+La Concha Beach,San Sebastián,Spain  
+Seville Cathedral,Seville,Spain  
+Acropolis of Athens,Athens,Greece  
+Santorini Caldera,Santorini,Greece  
+Metéora Monasteries,Kalabaka,Greece  
+Mykonos Windmills,Mykonos,Greece  
+Delphi Archaeological Site,Delphi,Greece  
+Buckingham Palace,London,United Kingdom  
+Big Ben,London,United Kingdom  
+Stonehenge,Wiltshire,United Kingdom  
+Edinburgh Castle,Edinburgh,United Kingdom  
+Giant’s Causeway,Antrim,United Kingdom  
+Brandenburg Gate,Berlin,Germany  
+Neuschwanstein Castle,Bavaria,Germany  
+Black Forest,Baden-Württemberg,Germany  
+Cologne Cathedral,Cologne,Germany  
+Romantic Road,Bavaria,Germany  
+Charles Bridge,Prague,Czech Republic  
+Prague Castle,Prague,Czech Republic  
+Český Krumlov Castle,Český Krumlov,Czech Republic  
+Sedlec Ossuary,Kutná Hora,Czech Republic  
+Karlštejn Castle,Karlštejn,Czech Republic  
+Anne Frank House,Amsterdam,Netherlands  
+Van Gogh Museum,Amsterdam,Netherlands  
+Keukenhof Gardens,Lisse,Netherlands  
+Zaanse Schans Windmills,Zaandam,Netherlands  
+Rijksmuseum,Amsterdam,Netherlands  
+Schönbrunn Palace,Vienna,Austria  
+Hallstatt,Salzkammergut,Austria  
+Hohensalzburg Fortress,Salzburg,Austria  
+Vienna State Opera,Vienna,Austria  
+Grossglockner High Alpine Road,Carinthia,Austria  
+Grand Place,Brussels,Belgium  
+Atomium,Brussels,Belgium  
+Bruges Canals,Bruges,Belgium  
+Gravensteen Castle,Ghent,Belgium  
+Waterloo Battlefield,Wallonia,Belgium  
+Northern Lights,Tromsø,Norway  
+Geirangerfjord,Møre og Romsdal,Norway  
+Vigeland Sculpture Park,Oslo,Norway  
+Preikestolen (Pulpit Rock),Rogaland,Norway  
+Lofoten Islands,Nordland,Norway  
+Blue Lagoon,Grindavík,Iceland  
+Golden Circle Route,South Iceland,Iceland  
+Jökulsárlón Glacier Lagoon,Vatnajökull,Iceland  
+Reykjavik Hallgrímskirkja,Reykjavik,Iceland  
+Thingvellir National Park,South Iceland,Iceland  
+Plitvice Lakes National Park,Lika,Croatia  
+Dubrovnik Old Town,Dubrovnik,Croatia  
+Diocletian’s Palace,Split,Croatia  
+Krka National Park,Šibenik,Croatia  
+Zlatni Rat Beach,Brač,Croatia  
+Fisherman’s Bastion,Budapest,Hungary  
+Buda Castle,Budapest,Hungary  
+Hungarian Parliament Building,Budapest,Hungary  
+Széchenyi Thermal Baths,Budapest,Hungary  
+Lake Balaton,Transdanubia,Hungary  
+Wawel Castle,Kraków,Poland  
+Auschwitz-Birkenau Memorial,Oświęcim,Poland  
+Warsaw Old Town,Warsaw,Poland  
+Malbork Castle,Malbork,Poland  
+Białowieża Forest,Podlaskie,Poland  
+Rila Monastery,Rila Mountains,Bulgaria  
+Alexander Nevsky Cathedral,Sofia,Bulgaria  
+Sunny Beach,Burgas,Bulgaria  
+Belogradchik Rocks,Vidin,Bulgaria  
+Seven Rila Lakes,Rila Mountains,Bulgaria  
+Bran Castle,Brașov,Romania  
+Palace of the Parliament,Bucharest,Romania  
+Transfăgărășan Highway,Făgăraș Mountains,Romania  
+Peleș Castle,Sinaia,Romania  
+Danube Delta,Tulcea,Romania  
+Old Town Square,Tallinn,Estonia  
+Lahemaa National Park,Harju County,Estonia  
+Alexander Nevsky Cathedral,Tallinn,Estonia  
+Pärnu Beach,Pärnu,Estonia  
+Kumu Art Museum,Tallinn,Estonia  
+Old Town,Riga,Latvia  
+Gauja National Park,Vidzeme,Latvia  
+Rundāle Palace,Bauska,Latvia  
+Jurmala Beach,Jurmala,Latvia  
+Art Nouveau District,Riga,Latvia  
+Trakai Island Castle,Trakai,Lithuania  
+Hill of Crosses,Šiauliai,Lithuania  
+Vilnius Old Town,Vilnius,Lithuania  
+Curonian Spit,Klaipėda,Lithuania  
+Gediminas Tower,Vilnius,Lithuania  
+Lake Bled,Bled,Slovenia  
+Postojna Cave,Postojna,Slovenia  
+Ljubljana Castle,Ljubljana,Slovenia  
+Triglav National Park,Julian Alps,Slovenia  
+Škocjan Caves,Divača,Slovenia  
+Mostar Bridge,Mostar,Bosnia and Herzegovina  
+Sarajevo Old Town,Sarajevo,Bosnia and Herzegovina  
+Kravice Waterfalls,Herzegovina,Bosnia and Herzegovina  
+Charyn Canyon,Almaty Region,Kazakhstan  
+Almaty Metro,Almaty,Kazakhstan  
+Big Almaty Lake,Almaty,Kazakhstan  
+Medeu Skating Rink,Almaty,Kazakhstan  
+Kok-Tobe Hill,Almaty,Kazakhstan  
+Baiterek Tower,Astana,Kazakhstan  
+Khan Shatyr Entertainment Center,Astana,Kazakhstan  
+Hazrat Sultan Mosque,Astana,Kazakhstan  
+Bayterek Monument,Astana,Kazakhstan  
+Nur-Astana Mosque,Astana,Kazakhstan  
+Kolsai Lakes,Almaty Region,Kazakhstan  
+Kaindy Lake,Almaty Region,Kazakhstan  
+Singing Dune,Altyn-Emel National Park,Kazakhstan  
+Tamgaly Petroglyphs,Almaty Region,Kazakhstan  
+Aksu-Zhabagly Nature Reserve,Turkistan Region,Kazakhstan  
+Mausoleum of Khoja Ahmed Yasawi,Turkistan,Kazakhstan  
+Otrar Ruins,Turkistan Region,Kazakhstan  
+Arystan Bab Mausoleum,Turkistan Region,Kazakhstan  
+Shymbulak Ski Resort,Almaty,Kazakhstan  
+First President's Park,Almaty,Kazakhstan  
+Central State Museum,Almaty,Kazakhstan  
+Zenkov Cathedral,Almaty,Kazakhstan  
+Republic Square,Almaty,Kazakhstan  
+Palace of Peace and Reconciliation,Astana,Kazakhstan  
+Astana Opera,Astana,Kazakhstan  
+Duman Entertainment Complex,Astana,Kazakhstan  
+Ethno-Memorial Complex Map of Kazakhstan,Astana,Kazakhstan  
+Akkol Resort,Akmola Region,Kazakhstan  
+Burabay National Park,Akmola Region,Kazakhstan  
+Lake Borovoe,Akmola Region,Kazakhstan  
+Atyrau City,Atyrau Region,Kazakhstan  
+Ustyurt Plateau,Mangystau Region,Kazakhstan  
+Beket-Ata Underground Mosque,Mangystau Region,Kazakhstan  
+Shakpak-Ata Mosque,Mangystau Region,Kazakhstan  
+Canyons of Mangystau,Mangystau Region,Kazakhstan  
+Aktau Mountains,Mangystau Region,Kazakhstan  
+Lake Balkhash,Karaganda Region,Kazakhstan  
+Karkaraly National Park,Karaganda Region,Kazakhstan  
+Saryarka Steppe,Karaganda Region,Kazakhstan  
+Naurzum Nature Reserve,Kostanay Region,Kazakhstan  
+Lake Kopa,Kostanay Region,Kazakhstan  
+Altai Mountains,East Kazakhstan Region,Kazakhstan  
+Rakhmanov Springs,East Kazakhstan Region,Kazakhstan  
+Markakol Lake,East Kazakhstan Region,Kazakhstan  
+Bukhtarma Reservoir,East Kazakhstan Region,Kazakhstan  
+Aulie-Ata Necropolis,Taraz,Kazakhstan  
+Taraz Archaeological Museum,Taraz,Kazakhstan  
+Shymkent Central Park,Shymkent,Kazakhstan  
+Ordabasy Square,Shymkent,Kazakhstan  
+Karavan Saray Historical Complex,Shymkent,Kazakhstan  
+Vat Phou,Champasak,Laos
+Kuang Si Falls,Luang Prabang,Laos
+Patuxai,Vientiane,Laos
+Pha That Luang,Vientiane,Laos
+Plain of Jars,Xieng Khouang,Laos
+Wat Xieng Thong,Luang Prabang,Laos
+Pak Ou Caves,Luang Prabang,Laos
+Bolaven Plateau,Champasak,Laos
+Si Phan Don,Champasak,Laos
+Wat Sisaket,Vientiane,Laos
+Tham Kong Lo,Khammouane,Laos
+Mount Phousi,Luang Prabang,Laos
+COPE Visitor Center,Vientiane,Laos
+Wat Phou Salao,Luang Prabang,Laos
+Tad Fane Waterfall,Paksong,Laos
+Buddha Park,Vientiane,Laos
+Wat Ho Phra Keo,Vientiane,Laos
+Nam Ou River,Northern Laos,Laos
+Tad Yuang Waterfall,Bolaven Plateau,Laos
+Royal Palace Museum,Luang Prabang,Laos
+That Ing Hang,Savannakhet,Laos
+Tad Sae Waterfall,Luang Prabang,Laos
+Phou Khao Khouay,Vientiane Province,Laos
+Wat Mai Suwannaphumaham,Luang Prabang,Laos
+Ban Kiet Ngong,Champasak,Laos
+Tad Tayicsua Waterfall,Bolaven Plateau,Laos
+Wat Visoun,Luang Prabang,Laos
+Nong Khiaw,Northern Laos,Laos
+Tad Champee Waterfall,Bolaven Plateau,Laos
+Wat Aham,Luang Prabang,Laos
+Mekong River Sunset,Luang Prabang,Laos
+Tad Lo Waterfall,Salavan,Laos
+Wat Manorom,Luang Prabang,Laos
+Phou Hin Boun National Park,Khammouane,Laos
+Tad Hang Waterfall,Salavan,Laos
+Wat That Luang Neua,Vientiane,Laos
+Ban Na Village,Luang Prabang,Laos
+Tad Katamtok Waterfall,Bolaven Plateau,Laos
+Wat Ong Teu,Vientiane,Laos
+Ban Phanom Village,Luang Prabang,Laos
+Tad Soung Waterfall,Bolaven Plateau,Laos
+Wat Si Muang,Vientiane,Laos
+Ban Xang Hai Village,Luang Prabang,Laos
+Tad Phasouam Waterfall,Bolaven Plateau,Laos
+Wat That Khao,Vientiane,Laos
+Ban Tha Heua,Vang Vieng,Laos
+Tad Moun Waterfall,Bolaven Plateau,Laos
+Wat Mixay,Vientiane,Laos
+Ban Tha Kaek,Khammouane,Laos
+Tad Alang Waterfall,Bolaven Plateau,Laos
+Wat Sok Pa Luang,Vientiane,Laos
+Old City (Icherisheher),Baku,Azerbaijan
+Maiden Tower,Baku,Azerbaijan
+Palace of the Shirvanshahs,Baku,Azerbaijan
+Heydar Aliyev Center,Baku,Azerbaijan
+Flame Towers,Baku,Azerbaijan
+Gobustan Rock Art Cultural Landscape,Gobustan,Azerbaijan
+Mud Volcanoes,Gobustan,Azerbaijan
+Ateshgah Fire Temple,Baku,Azerbaijan
+Yanar Dag (Burning Mountain),Absheron,Azerbaijan
+Bibi-Heybat Mosque,Baku,Azerbaijan
+Shahdag Mountain Resort,Gusar,Azerbaijan
+Gabala Mountain Resort,Gabala,Azerbaijan
+Tufandag Mountain Resort,Gabala,Azerbaijan
+Sheki Khan's Palace,Sheki,Azerbaijan
+Sheki Caravanserai,Sheki,Azerbaijan
+Alinja Castle,Nakhchivan,Azerbaijan
+Nizami Mausoleum,Ganja,Azerbaijan
+Bottle House,Ganja,Azerbaijan
+Lahij Village,Ismayilli,Azerbaijan
+Xinaliq Village,Guba,Azerbaijan
+Khinalug Village,Guba,Azerbaijan
+Goygol Lake,Goygol,Azerbaijan
+Maraza Mausoleum,Maraza,Azerbaijan
+Shamakhi Astrophysical Observatory,Shamakhi,Azerbaijan
+Juma Mosque,Shamakhi,Azerbaijan
+Seven Beauties Waterfall,Gabala,Azerbaijan
+Nohur Lake,Gabala,Azerbaijan
+Taza Pir Mosque,Baku,Azerbaijan
+Azerbaijan Carpet Museum,Baku,Azerbaijan
+National Art Museum,Baku,Azerbaijan
+Baku Boulevard,Baku,Azerbaijan
+Little Venice,Baku,Azerbaijan
+Baku Ferris Wheel,Baku,Azerbaijan
+Gala Archaeological Ethnographic Museum Complex,Baku,Azerbaijan
+Absheron National Park,Abşeron,Azerbaijan
+Giz Galasi (Maiden Tower),Baku,Azerbaijan
+Gosha Gala Gate,Baku,Azerbaijan
+Martyrs' Lane,Baku,Azerbaijan
+Baku Crystal Hall,Baku,Azerbaijan
+Azerbaijan State Philharmonic Hall,Baku,Azerbaijan
+Mugham Center,Baku,Azerbaijan
+Taza Bazaar,Sheki,Azerbaijan
+Basgal Village,Ismayilli,Azerbaijan
+Ivanovka Village,Ismayilli,Azerbaijan
+Shahdag National Park,Gusar,Azerbaijan
+Goyazan Mountain,Qazax,Azerbaijan
+Beshtashag Lake,Lankaran,Azerbaijan
+Hirkan National Park,Lankaran,Azerbaijan
+Lankaran Fortress,Lankaran,Azerbaijan
+Astara Waterfall,Astara,Azerbaijan
+Shahbulag Castle,Aghdam,Azerbaijan
+Hagia Sophia,Istanbul,Turkey  
+Blue Mosque,Istanbul,Turkey  
+Topkapi Palace,Istanbul,Turkey  
+Grand Bazaar,Istanbul,Turkey  
+Basilica Cistern,Istanbul,Turkey  
+Galata Tower,Istanbul,Turkey  
+Dolmabahçe Palace,Istanbul,Turkey  
+Süleymaniye Mosque,Istanbul,Turkey  
+Spice Bazaar,Istanbul,Turkey  
+Bosphorus Cruise,Istanbul,Turkey  
+Pamukkale Thermal Pools,Denizli,Turkey  
+Ephesus Ancient City,Selçuk,Turkey  
+Cappadocia Fairy Chimneys,Nevşehir,Turkey  
+Göreme Open Air Museum,Nevşehir,Turkey  
+Hot Air Balloon Ride,Nevşehir,Turkey  
+Mount Nemrut,Adıyaman,Turkey  
+Aspendos Theater,Antalya,Turkey  
+Patara Beach,Antalya,Turkey  
+Olympos Ancient City,Antalya,Turkey  
+Myra Rock Tombs,Antalya,Turkey  
+Perge Ancient City,Antalya,Turkey  
+Termessos Ancient City,Antalya,Turkey  
+Antalya Old Town (Kaleiçi),Antalya,Turkey  
+Düden Waterfalls,Antalya,Turkey  
+Konyaaltı Beach,Antalya,Turkey  
+Troy Ancient City,Çanakkale,Turkey  
+Gallipoli Battlefields,Çanakkale,Turkey  
+Assos Ancient City,Çanakkale,Turkey  
+Anıtkabir,Ankara,Turkey  
+Museum of Anatolian Civilizations,Ankara,Turkey  
+Göbekli Tepe,Şanlıurfa,Turkey  
+Balıklıgöl,Şanlıurfa,Turkey  
+Harran Beehive Houses,Şanlıurfa,Turkey  
+Mardin Old Town,Mardin,Turkey  
+Dara Ancient City,Mardin,Turkey  
+Hasankeyf,Batman,Turkey  
+Sumela Monastery,Trabzon,Turkey  
+Uzungöl,Trabzon,Turkey  
+Ayder Plateau,Rize,Turkey  
+İshak Pasha Palace,Ağrı,Turkey  
+Lake Van,Van,Turkey  
+Akdamar Island,Van,Turkey  
+Mount Ararat,Ağrı,Turkey  
+Safranbolu Old Town,Karabük,Turkey  
+Amasya Ottoman Houses,Amasya,Turkey  
+Hattusha Ancient City,Çorum,Turkey  
+Alacahöyük Ancient Site,Çorum,Turkey  
+Ihlara Valley,Aksaray,Turkey  
+Derinkuyu Underground City,Nevşehir,Turkey  
+Kaymaklı Underground City,Nevşehir,Turkey  
+Selime Monastery,Nevşehir,Turkey  
+Pigeon Valley,Nevşehir,Turkey  
+Devrent Valley,Nevşehir,Turkey  
+Love Valley,Nevşehir,Turkey  
+Red Valley,Nevşehir,Turkey  
+Ölüdeniz Beach,Fethiye,Turkey  
+Butterfly Valley,Fethiye,Turkey  
+Saklıkent Gorge,Fethiye,Turkey  
+Kayaköy Ghost Town,Fethiye,Turkey  
+Dalyan Mud Baths,Muğla,Turkey  
+Kaunos Ancient City,Muğla,Turkey  
+Bodrum Castle,Muğla,Turkey  
+Bodrum Amphitheater,Muğla,Turkey  
+Marmaris Castle,Muğla,Turkey  
+Datça Peninsula,Muğla,Turkey  
+Knidos Ancient City,Muğla,Turkey  
+Priene Ancient City,Aydın,Turkey  
+Miletus Ancient City,Aydın,Turkey  
+Didyma Temple,Aydın,Turkey  
+Kuşadası Beaches,Aydın,Turkey  
+Pamukkale Travertines,Denizli,Turkey  
+Hierapolis Ancient City,Denizli,Turkey  
+Laodicea Ancient City,Denizli,Turkey  
+Aphrodisias Ancient City,Aydın,Turkey  
+Bursa Grand Mosque,Bursa,Turkey  
+Uludağ Mountain,Bursa,Turkey  
+Cumalıkızık Village,Bursa,Turkey  
+Green Mosque,Bursa,Turkey  
+İznik Lake,Bursa,Turkey  
+Eskişehir Odunpazarı Houses,Eskişehir,Turkey  
+Sazova Park,Eskişehir,Turkey  
+Konya Mevlana Museum,Konya,Turkey  
+Çatalhöyük Neolithic Site,Konya,Turkey  
+Alanya Castle,Antalya,Turkey  
+Alanya Red Tower,Antalya,Turkey  
+Side Ancient City,Antalya,Turkey  
+Manavgat Waterfall,Antalya,Turkey  
+Koprulu Canyon,Antalya,Turkey  
+Adrasan Beach,Antalya,Turkey  
+Phaselis Ancient City,Antalya,Turkey  
+Termal Hot Springs,Yalova,Turkey  
+Prince Islands,Istanbul,Turkey  
+Rumeli Fortress,Istanbul,Turkey  
+Pierre Loti Hill,Istanbul,Turkey  
+Miniaturk,Istanbul,Turkey  
+Rahmi M. Koç Museum,Istanbul,Turkey  
+Şile Lighthouse,Istanbul,Turkey  
+Ağva Nature Park,Istanbul,Turkey  
+Polonezköy Village,Istanbul,Turkey  
+Blue Lagoon,Reykjanes Peninsula,Iceland
+Golden Circle,South Iceland,Iceland
+Gullfoss Waterfall,South Iceland,Iceland
+Geysir Geothermal Area,South Iceland,Iceland
+Thingvellir National Park,South Iceland,Iceland
+Seljalandsfoss Waterfall,South Iceland,Iceland
+Skogafoss Waterfall,South Iceland,Iceland
+Reynisfjara Black Sand Beach,South Iceland,Iceland
+Vik Village,South Iceland,Iceland
+Jokulsarlon Glacier Lagoon,South Iceland,Iceland
+Diamond Beach,South Iceland,Iceland
+Skaftafell Nature Reserve,South Iceland,Iceland
+Svartifoss Waterfall,South Iceland,Iceland
+Fjaðrárgljúfur Canyon,South Iceland,Iceland
+Landmannalaugar,Highlands,Iceland
+Hekla Volcano,South Iceland,Iceland
+Eyjafjallajökull Volcano,South Iceland,Iceland
+Laki Craters,South Iceland,Iceland
+Vatnajökull Glacier,South Iceland,Iceland
+Sólheimajökull Glacier,South Iceland,Iceland
+Reykjavik City Hall,Reykjavik,Iceland
+Hallgrimskirkja Church,Reykjavik,Iceland
+Harpa Concert Hall,Reykjavik,Iceland
+Sun Voyager Sculpture,Reykjavik,Iceland
+Perlan Museum,Reykjavik,Iceland
+National Museum of Iceland,Reykjavik,Iceland
+Whale Watching,Reykjavik,Iceland
+Sky Lagoon,Reykjavik,Iceland
+Snæfellsjökull National Park,West Iceland,Iceland
+Kirkjufell Mountain,West Iceland,Iceland
+Stykkishólmur Town,West Iceland,Iceland
+Rauðfeldsgjá Gorge,West Iceland,Iceland
+Djúpalónssandur Beach,West Iceland,Iceland
+Vatnshellir Cave,West Iceland,Iceland
+Akureyri Town,North Iceland,Iceland
+Godafoss Waterfall,North Iceland,Iceland
+Myvatn Lake,North Iceland,Iceland
+Dettifoss Waterfall,North Iceland,Iceland
+Hverir Geothermal Area,North Iceland,Iceland
+Grjótagjá Cave,North Iceland,Iceland
+Askja Caldera,Highlands,Iceland
+Hverfjall Crater,North Iceland,Iceland
+Húsavík Whale Watching,North Iceland,Iceland
+Ásbyrgi Canyon,North Iceland,Iceland
+Dimmuborgir Lava Fields,North Iceland,Iceland
+Hornstrandir Nature Reserve,Westfjords,Iceland
+Dynjandi Waterfall,Westfjords,Iceland
+Latrabjarg Cliffs,Westfjords,Iceland
+Rauðasandur Beach,Westfjords,Iceland
+Thorsmork Valley,South Iceland,Iceland
+Westman Islands,South Iceland,Iceland
+Oslo Opera House,Oslo,Norway
+Vigeland Sculpture Park,Oslo,Norway
+Holmenkollen Ski Jump,Oslo,Norway
+Fram Museum,Oslo,Norway
+Viking Ship Museum,Oslo,Norway
+Akershus Fortress,Oslo,Norway
+Norwegian Museum of Cultural History,Oslo,Norway
+Astrup Fearnley Museum,Oslo,Norway
+Munch Museum,Oslo,Norway
+Royal Palace,Oslo,Norway
+Nidaros Cathedral,Trondheim,Norway
+Bakklandet District,Trondheim,Norway
+Ringve Museum,Trondheim,Norway
+Old Town Bridge,Trondheim,Norway
+Archbishop's Palace,Trondheim,Norway
+Bryggen Hanseatic Wharf,Bergen,Norway
+Fløibanen Funicular,Bergen,Norway
+Bergen Fish Market,Bergen,Norway
+Troldhaugen Edvard Grieg Museum,Bergen,Norway
+Ulriken Mountain,Bergen,Norway
+Stavanger Cathedral,Stavanger,Norway
+Gamle Stavanger,Stavanger,Norway
+Norwegian Petroleum Museum,Stavanger,Norway
+Pulpit Rock (Preikestolen),Stavanger,Norway
+Kjeragbolten,Lysefjord,Norway
+Trolltunga,Odda,Norway
+Flåm Railway,Flåm,Norway
+Nærøyfjord,Aurland,Norway
+Stegastein Viewpoint,Aurland,Norway
+Borgund Stave Church,Lærdal,Norway
+Geirangerfjord,Geiranger,Norway
+Seven Sisters Waterfall,Geiranger,Norway
+Dalsnibba Viewpoint,Geiranger,Norway
+Trollstigen Road,Åndalsnes,Norway
+Romsdalseggen Ridge,Åndalsnes,Norway
+Atlantic Ocean Road,Averøy,Norway
+Kristiansund Opera House,Kristiansund,Norway
+Lofoten Islands,Lofoten,Norway
+Reine Village,Lofoten,Norway
+Henningsvær Fishing Village,Lofoten,Norway
+Å Village,Lofoten,Norway
+Svolværgeita Mountain,Lofoten,Norway
+Tromsø Arctic Cathedral,Tromsø,Norway
+Polar Museum,Tromsø,Norway
+Fjellheisen Cable Car,Tromsø,Norway
+Arctic-Alpine Botanic Garden,Tromsø,Norway
+Northern Lights,Tromsø,Norway
+Midnight Sun,North Cape,Norway
+North Cape Plateau,Honningsvåg,Norway
+Svalbard Global Seed Vault,Longyearbyen,Norway
+Polar Bear Safari,Svalbard,Norway
+Barentsburg Mining Town,Svalbard,Norway
+Røros Mining Town,Røros,Norway
+Olav's Mine,Røros,Norway
+Jotunheimen National Park,Lom,Norway
+Besseggen Ridge,Jotunheimen,Norway
+Galdhøpiggen Mountain,Jotunheimen,Norway
+Lom Stave Church,Lom,Norway
+Hardangervidda National Park,Eidfjord,Norway
+Vøringsfossen Waterfall,Eidfjord,Norway
+Måbødalen Valley,Eidfjord,Norway
+Kjosfossen Waterfall,Flåm,Norway
+Voss Resort,Voss,Norway
+Heddal Stave Church,Notodden,Norway
+Telemark Canal,Skien,Norway
+Gaustatoppen Mountain,Rjukan,Norway
+Kistefos Museum,Jevnaker,Norway
+Hadeland Glassverk,Jevnaker,Norway
+Fredriksten Fortress,Halden,Norway
+Grense Jakobselv Border Marker,Kirkenes,Norway
+Varanger Peninsula,Vadsø,Norway
+Hammerfest Town,Hammerfest,Norway
+Meridian Column,Hammerfest,Norway
+Alta Rock Carvings,Alta,Norway
+Sorrisniva Igloo Hotel,Alta,Norway
+Saltstraumen Whirlpool,Bodø,Norway
+Norwegian Aviation Museum,Bodø,Norway
+Svartisen Glacier,Meløy,Norway
+Saltfjellet-Svartisen National Park,Mo i Rana,Norway
+Helgeland Coast,Bronnoysund,Norway
+Torghatten Mountain,Brønnøy,Norway
+Seven Sisters Mountains,Alstahaug,Norway
+Træna Archipelago,Træna,Norway
+Vega Islands,Vega,Norway
+Runde Bird Island,Herøy,Norway
+Jostedalsbreen Glacier,Stryn,Norway
+Briksdalsbreen Glacier,Olden,Norway
+Loenvatnet Lake,Stryn,Norway
+Hjørundfjord,Ørsta,Norway
+Ålesund Art Nouveau Town,Ålesund,Norway
+Aksla Viewpoint,Ålesund,Norway
+Atlantic Sea Park,Ålesund,Norway
+Romsdal Museum,Molde,Norway
+Trollkirka Caves,Kristiansund,Norway
+Kystriksveien Coastal Route,Nordland,Norway
+Lovatnet Lake,Stryn,Norway
+Jostedalsbreen National Park,Sogn og Fjordane,Norway
+Urnes Stave Church,Luster,Norway
+Nigardsbreen Glacier,Luster,Norway
+Sognefjellet Mountain Road,Lom,Norway
+Breheimen National Park,Skjåk,Norway
+Dovrefjell National Park,Dombås,Norway
+Mount Otemanu,Bora Bora,French Polynesia
+Matira Beach,Bora Bora,French Polynesia
+Lagoonarium,Bora Bora,French Polynesia
+Coral Gardens,Bora Bora,French Polynesia
+Bloody Mary's Restaurant,Bora Bora,French Polynesia
+Bora Bora Lagoon,Bora Bora,French Polynesia
+Four Seasons Resort,Bora Bora,French Polynesia
+St. Regis Resort,Bora Bora,French Polynesia
+Intercontinental Thalasso Spa,Bora Bora,French Polynesia
+Conrad Bora Bora Nui,Bora Bora,French Polynesia
+Le Meridien Turtle Center,Bora Bora,French Polynesia
+Bora Bora Pearl Company,Bora Bora,French Polynesia
+Vaitape Village,Bora Bora,French Polynesia
+Anau Overlook,Bora Bora,French Polynesia
+Faanui Bay,Bora Bora,French Polynesia
+Mount Pahia,Bora Bora,French Polynesia
+Bora Bora Yacht Club,Bora Bora,French Polynesia
+Mai Moana Island,Bora Bora,French Polynesia
+Tupitipiti Point,Bora Bora,French Polynesia
+Toopua Island,Bora Bora,French Polynesia
+Motu Tapu,Bora Bora,French Polynesia
+Motu Ahuna,Bora Bora,French Polynesia
+Motu Mute,Bora Bora,French Polynesia
+Motu Tane,Bora Bora,French Polynesia
+Motu Piti Aau,Bora Bora,French Polynesia
+Bora Bora Helicopter Tour,Bora Bora,French Polynesia
+Shark & Ray Snorkeling,Bora Bora,French Polynesia
+Jet Ski Tour,Bora Bora,French Polynesia
+Parasailing,Bora Bora,French Polynesia
+Stand-Up Paddleboarding,Bora Bora,French Polynesia
+Deep Sea Fishing,Bora Bora,French Polynesia
+Glass Bottom Boat Tour,Bora Bora,French Polynesia
+Sunset Cruise,Bora Bora,French Polynesia
+Polynesian Dance Show,Bora Bora,French Polynesia
+Bora Bora Art Gallery,Bora Bora,French Polynesia
+Alain Despert Gallery,Bora Bora,French Polynesia
+Bora Bora History Museum,Bora Bora,French Polynesia
+World War II Cannons,Bora Bora,French Polynesia
+Farepiti Point,Bora Bora,French Polynesia
+Temanu Beach,Bora Bora,French Polynesia
+Pofai Beach,Bora Bora,French Polynesia
+Matira Point,Bora Bora,French Polynesia
+Bora Bora Golf Club,Bora Bora,French Polynesia
+Bora Diving Center,Bora Bora,French Polynesia
+Top Dive Bora Bora,Bora Bora,French Polynesia
+Bora Bora Aqua Safari,Bora Bora,French Polynesia
+Bora Bora Eco Tour,Bora Bora,French Polynesia
+Bora Bora Land Tour,Bora Bora,French Polynesia
+Bora Bora Safari 4x4,Bora Bora,French Polynesia
+Bora Bora Jet Tour,Bora Bora,French Polynesia
+Angkor Wat,Siem Reap,Cambodia
+Bayon Temple,Siem Reap,Cambodia
+Ta Prohm,Siem Reap,Cambodia
+Angkor Thom,Siem Reap,Cambodia
+Banteay Srei,Siem Reap,Cambodia
+Preah Khan,Siem Reap,Cambodia
+Phnom Bakheng,Siem Reap,Cambodia
+Tonle Sap Lake,Siem Reap,Cambodia
+Floating Villages,Siem Reap,Cambodia
+Cambodian Cultural Village,Siem Reap,Cambodia
+Royal Palace,Phnom Penh,Cambodia
+Silver Pagoda,Phnom Penh,Cambodia
+Tuol Sleng Genocide Museum,Phnom Penh,Cambodia
+Choeung Ek Killing Fields,Phnom Penh,Cambodia
+National Museum,Phnom Penh,Cambodia
+Wat Phnom,Phnom Penh,Cambodia
+Independence Monument,Phnom Penh,Cambodia
+Russian Market,Phnom Penh,Cambodia
+Central Market,Phnom Penh,Cambodia
+Sisowath Quay,Phnom Penh,Cambodia
+Bokor Hill Station,Kampot,Cambodia
+Kep Beach,Kep,Cambodia
+Rabbit Island,Kep,Cambodia
+Kampot Pepper Plantations,Kampot,Cambodia
+Battambang Bamboo Train,Battambang,Cambodia
+Phnom Sampeau,Battambang,Cambodia
+Killing Caves,Battambang,Cambodia
+Battambang Circus,Battambang,Cambodia
+Preah Vihear Temple,Preah Vihear,Cambodia
+Koh Ker Temple Complex,Preah Vihear,Cambodia
+Beng Mealea,Siem Reap,Cambodia
+Roluos Group Temples,Siem Reap,Cambodia
+Phare Circus,Siem Reap,Cambodia
+War Museum,Siem Reap,Cambodia
+Landmine Museum,Siem Reap,Cambodia
+Kulen Mountain,Siem Reap,Cambodia
+Banteay Chhmar,Banteay Meanchey,Cambodia
+Koh Rong Island,Sihanoukville,Cambodia
+Koh Rong Samloem,Sihanoukville,Cambodia
+Otres Beach,Sihanoukville,Cambodia
+Independence Beach,Sihanoukville,Cambodia
+Ream National Park,Sihanoukville,Cambodia
+Kbal Chhay Waterfall,Sihanoukville,Cambodia
+Preah Monivong National Park,Kampot,Cambodia
+Phnom Chisor,Takeo,Cambodia
+Ta Mok's House,Anlong Veng,Cambodia
+Preah Khan Kompong Svay,Preah Vihear,Cambodia
+Koh Tonsay (Rabbit Island),Kep,Cambodia
+Kampong Cham Bamboo Bridge,Kampong Cham,Cambodia
+Phnom Pros & Phnom Srei,Kampong Cham,Cambodia
+Wat Nokor,Kampong Cham,Cambodia
+Kratie Dolphin Spotting,Kratie,Cambodia
+Koh Trong Island,Kratie,Cambodia
+Preah Ko Temple,Roluos,Cambodia
+Bakong Temple,Roluos,Cambodia
+Lolei Temple,Roluos,Cambodia
+Banteay Kdei,Siem Reap,Cambodia
+Neak Pean,Siem Reap,Cambodia
+Pre Rup,Siem Reap,Cambodia
+East Mebon,Siem Reap,Cambodia
+Ta Som,Siem Reap,Cambodia
+Banteay Samre,Siem Reap,Cambodia
+Phnom Kulen Waterfall,Siem Reap,Cambodia
+Cambodia Landmine Museum,Siem Reap,Cambodia
+Angkor National Museum,Siem Reap,Cambodia
+Psar Chas (Old Market),Siem Reap,Cambodia
+Pub Street,Siem Reap,Cambodia
+Artisans Angkor,Siem Reap,Cambodia
+Wat Bo Pagoda,Siem Reap,Cambodia
+Preah Ang Chek Preah Ang Chorm,Phnom Penh,Cambodia
+Wat Ounalom,Phnom Penh,Cambodia
+Wat Langka,Phnom Penh,Cambodia
+Olympic Stadium,Phnom Penh,Cambodia
+AEON Mall,Phnom Penh,Cambodia
+Phnom Tamao Wildlife Rescue Center,Takeo,Cambodia
+Ta Prohm Kel,Cambodia
+Koh Ker Pyramid,Preah Vihear,Cambodia
+Sambor Prei Kuk,Kampong Thom,Cambodia
+Phnom Santuk,Kampong Thom,Cambodia
+Kampong Luong Floating Village,Pursat,Cambodia
+Phnom Kulen National Park,Siem Reap,Cambodia
+Banteay Chmar Temple,Banteay Meanchey,Cambodia
+Kampong Phluk Floating Village,Siem Reap,Cambodia
+Chong Kneas Floating Village,Siem Reap,Cambodia
+Kampong Khleang Floating Village,Siem Reap,Cambodia
+Mechrey Floating Village,Siem Reap,Cambodia
+Preah Pithu,Siem Reap,Cambodia
+Krol Ko,Siem Reap,Cambodia
+Banteay Prei,Siem Reap,Cambodia
+Ta Nei,Siem Reap,Cambodia
+Bat Chum,Siem Reap,Cambodia
+Kutisvara,Siem Reap,Cambodia
+Prasat Kravan,Siem Reap,Cambodia
+Banteay Thom,Siem Reap,Cambodia
+Phnom Bok,Siem Reap,Cambodia
+Phnom Krom,Siem Reap,Cambodia
+West Baray,Siem Reap,Cambodia
+East Baray,Siem Reap,Cambodia
+Srah Srang,Siem Reap,Cambodia
+Banteay Srei Butterfly Centre,Siem Reap,Cambodia
+Angkor Centre for Conservation,Siem Reap,Cambodia
+Cambodia-Japan Friendship Bridge,Phnom Penh,Cambodia
+Koh Dach (Silk Island),Phnom Penh,Cambodia
+Oudong Mountain,Kampong Speu,Cambodia
+Sigiriya Rock Fortress,Sri Lanka,Sri Lanka|Cultural  
+Temple of the Sacred Tooth Relic,Sri Lanka,Sri Lanka|Cultural  
+Anuradhapura Ancient City,Sri Lanka,Sri Lanka|Cultural  
+Polonnaruwa Ruins,Sri Lanka,Sri Lanka|Cultural  
+Dambulla Cave Temple,Sri Lanka,Sri Lanka|Cultural  
+Galle Fort,Sri Lanka,Sri Lanka|Cultural  
+Adam's Peak Pilgrimage,Sri Lanka,Sri Lanka|Adventure  
+Ella Rock Hike,Sri Lanka,Sri Lanka|Adventure  
+Sinharaja Rainforest,Sri Lanka,Sri Lanka|Adventure  
+Knuckles Mountain Range,Sri Lanka,Sri Lanka|Adventure  
+Mirissa Whale Watching,Sri Lanka,Sri Lanka|Wildlife  
+Yala National Park,Sri Lanka,Sri Lanka|Wildlife  
+Udawalawe National Park,Sri Lanka,Sri Lanka|Wildlife  
+Wilpattu National Park,Sri Lanka,Sri Lanka|Wildlife  
+Unawatuna Beach,Sri Lanka,Sri Lanka|Beach  
+Bentota Beach,Sri Lanka,Sri Lanka|Beach  
+Tangalle Beaches,Sri Lanka,Sri Lanka|Beach  
+Arugam Bay Surfing,Sri Lanka,Sri Lanka|Beach  
+Nilaveli Beach,Sri Lanka,Sri Lanka|Beach  
+Ceylon Tea Trails,Sri Lanka,Sri Lanka|Luxury  
+Wild Coast Tented Lodge,Sri Lanka,Sri Lanka|Luxury  
+Amangalla Galle Fort,Sri Lanka,Sri Lanka|Luxury  
+Cape Weligama Resort,Sri Lanka,Sri Lanka|Luxury  
+Kandy Cultural Show,Sri Lanka,Sri Lanka|Cultural  
+Jaffna Cultural Sites,Sri Lanka,Sri Lanka|Cultural  
+Pinnawala Elephant Orphanage,Sri Lanka,Sri Lanka|Wildlife  
+Horton Plains World's End,Sri Lanka,Sri Lanka|Adventure  
+Nine Arches Bridge,Sri Lanka,Sri Lanka|Cultural  
+Ravana Falls,Sri Lanka,Sri Lanka|Adventure  
+Colombo City Tour,Sri Lanka,Sri Lanka|Cultural  
+Big Ben,United Kingdom,United Kingdom|Iconic  
+London Eye,United Kingdom,United Kingdom|Iconic  
+Tower of London,United Kingdom,United Kingdom|Historical  
+Buckingham Palace,United Kingdom,United Kingdom|Royal  
+Stonehenge,United Kingdom,United Kingdom|Historical  
+Edinburgh Castle,United Kingdom,United Kingdom|Historical  
+The British Museum,United Kingdom,United Kingdom|Cultural  
+Westminster Abbey,United Kingdom,United Kingdom|Historical  
+Lake District National Park,United Kingdom,United Kingdom|Nature  
+Snowdonia National Park,United Kingdom,United Kingdom|Nature  
+Giant's Causeway,United Kingdom,United Kingdom|Nature  
+The Shard,United Kingdom,United Kingdom|Modern  
+Warner Bros. Studio Tour London,United Kingdom,United Kingdom|Entertainment  
+The Roman Baths,United Kingdom,United Kingdom|Historical  
+York Minster,United Kingdom,United Kingdom|Historical  
+Canterbury Cathedral,United Kingdom,United Kingdom|Historical  
+Windsor Castle,United Kingdom,United Kingdom|Royal  
+St. Paul's Cathedral,United Kingdom,United Kingdom|Historical  
+The Eden Project,United Kingdom,United Kingdom|Nature  
+Cambridge University,United Kingdom,United Kingdom|Academic  
+Oxford University,United Kingdom,United Kingdom|Academic  
+Loch Ness,United Kingdom,United Kingdom|Nature  
+The Cotswolds,United Kingdom,United Kingdom|Scenic  
+Shakespeare's Globe,United Kingdom,United Kingdom|Cultural  
+Tower Bridge,United Kingdom,United Kingdom|Iconic  
+Natural History Museum,United Kingdom,United Kingdom|Cultural  
+Victoria and Albert Museum,United Kingdom,United Kingdom|Cultural  
+National Gallery,United Kingdom,United Kingdom|Cultural  
+Scottish Highlands,United Kingdom,United Kingdom|Nature  
+Isle of Skye,United Kingdom,United Kingdom|Nature  
+Bath Spa,United Kingdom,United Kingdom|Wellness  
+The Peak District,United Kingdom,United Kingdom|Nature  
+Sherwood Forest,United Kingdom,United Kingdom|Nature  
+Stratford-upon-Avon,United Kingdom,United Kingdom|Cultural  
+Kensington Palace,United Kingdom,United Kingdom|Royal  
+Hampton Court Palace,United Kingdom,United Kingdom|Royal  
+The White Cliffs of Dover,United Kingdom,United Kingdom|Nature  
+Portobello Road Market,United Kingdom,United Kingdom|Shopping  
+Camden Market,United Kingdom,United Kingdom|Shopping  
+The Beatles Story,United Kingdom,United Kingdom|Cultural  
+Blackpool Pleasure Beach,United Kingdom,United Kingdom|Entertainment  
+The London Dungeon,United Kingdom,United Kingdom|Entertainment  
+Madame Tussauds London,United Kingdom,United Kingdom|Entertainment  
+The Sherlock Holmes Museum,United Kingdom,United Kingdom|Cultural  
+The Royal Mile,United Kingdom,United Kingdom|Historical  
+Borough Market,United Kingdom,United Kingdom|Food  
+The Globe Theatre,United Kingdom,United Kingdom|Cultural  
+The Tate Modern,United Kingdom,United Kingdom|Cultural  
+The Tower of London,United Kingdom,United Kingdom|Historical  
+The London Zoo,United Kingdom,United Kingdom|Family  
+Kew Gardens,United Kingdom,United Kingdom|Nature  
+The Royal Observatory Greenwich,United Kingdom,United Kingdom|Scientific  
+The Churchill War Rooms,United Kingdom,United Kingdom|Historical  
+The Imperial War Museum,United Kingdom,United Kingdom|Historical  
+The Science Museum,United Kingdom,United Kingdom|Scientific  
+The Cutty Sark,United Kingdom,United Kingdom|Historical  
+The HMS Belfast,United Kingdom,United Kingdom|Historical  
+The Royal Albert Hall,United Kingdom,United Kingdom|Cultural  
+The O2 Arena,United Kingdom,United Kingdom|Entertainment  
+Wembley Stadium,United Kingdom,United Kingdom|Sports  
+Old Trafford,United Kingdom,United Kingdom|Sports  
+Anfield,United Kingdom,United Kingdom|Sports  
+St Andrews Links,United Kingdom,United Kingdom|Sports  
+Wimbledon,United Kingdom,United Kingdom|Sports  
+The Royal Ascot,United Kingdom,United Kingdom|Sports  
+The Chelsea Flower Show,United Kingdom,United Kingdom|Event  
+The Notting Hill Carnival,United Kingdom,United Kingdom|Event  
+The Edinburgh Fringe Festival,United Kingdom,United Kingdom|Event  
+Glastonbury Festival,United Kingdom,United Kingdom|Event  
+The Proms,United Kingdom,United Kingdom|Event  
+The London Marathon,United Kingdom,United Kingdom|Event  
+The Oxford-Cambridge Boat Race,United Kingdom,United Kingdom|Event  
+The Trooping the Colour,United Kingdom,United Kingdom|Event  
+The Changing of the Guard,United Kingdom,United Kingdom|Event  
+The Lord Mayor's Show,United Kingdom,United Kingdom|Event  
+The Bonfire Night,United Kingdom,United Kingdom|Event  
+The Christmas Markets,United Kingdom,United Kingdom|Event  
+The Hogwarts Express,United Kingdom,United Kingdom|Entertainment  
+The Warner Bros. Studio Tour,United Kingdom,United Kingdom|Entertainment  
+The Doctor Who Experience,United Kingdom,United Kingdom|Entertainment  
+The Harry Potter Tour,United Kingdom,United Kingdom|Entertainment  
+The James Bond Experience,United Kingdom,United Kingdom|Entertainment  
+The Downton Abbey Tour,United Kingdom,United Kingdom|Entertainment  
+The Outlander Tour,United Kingdom,United Kingdom|Entertainment  
+The Beatles Tour,United Kingdom,United Kingdom|Entertainment  
+The Rolling Stones Tour,United Kingdom,United Kingdom|Entertainment  
+The Led Zeppelin Tour,United Kingdom,United Kingdom|Entertainment  
+The Pink Floyd Tour,United Kingdom,United Kingdom|Entertainment  
+The David Bowie Tour,United Kingdom,United Kingdom|Entertainment  
+The Freddie Mercury Tour,United Kingdom,United Kingdom|Entertainment  
+The Elton John Tour,United Kingdom,United Kingdom|Entertainment  
+The Adele Tour,United Kingdom,United Kingdom|Entertainment  
+The Ed Sheeran Tour,United Kingdom,United Kingdom|Entertainment  
+The One Direction Tour,United Kingdom,United Kingdom|Entertainment  
+The Spice Girls Tour,United Kingdom,United Kingdom|Entertainment  
+The Take That Tour,United Kingdom,United Kingdom|Entertainment  
+The Robbie Williams Tour,United Kingdom,United Kingdom|Entertainment  
+The Coldplay Tour,United Kingdom,United Kingdom|Entertainment  
+The Radiohead Tour,United Kingdom,United Kingdom|Entertainment  
+The Oasis Tour,United Kingdom,United Kingdom|Entertainment  
+The Blur Tour,United Kingdom,United Kingdom|Entertainment  
+The Arctic Monkeys Tour,United Kingdom,United Kingdom|Entertainment  
+The Muse Tour,United Kingdom,United Kingdom|Entertainment  
+The Queen Tour,United Kingdom,United Kingdom|Entertainment  
+The The Who Tour,United Kingdom,United Kingdom|Entertainment  
+The The Rolling Stones Tour,United Kingdom,United Kingdom|Entertainment  
+Museum of Islamic Art,Doha,Qatar
+Souq Waqif,Doha,Qatar
+The Pearl-Qatar,Doha,Qatar
+Katara Cultural Village,Doha,Qatar
+Aspire Zone,Doha,Qatar
+National Museum of Qatar,Doha,Qatar
+Mathaf: Arab Museum of Modern Art,Doha,Qatar
+Sheikh Faisal Bin Qassim Al Thani Museum,Doha,Qatar
+Qatar National Library,Doha,Qatar
+MIA Park,Doha,Qatar
+Doha Corniche,Doha,Qatar
+Doha Fort (Al Koot Fort),Doha,Qatar
+State Grand Mosque,Doha,Qatar
+Education City Mosque,Doha,Qatar
+Qatar University,Doha,Qatar
+Villaggio Mall,Doha,Qatar
+Mall of Qatar,Doha,Qatar
+Doha Festival City,Doha,Qatar
+Place Vendôme,Lusail,Qatar
+Lusail Marina,Lusail,Qatar
+Lusail Stadium,Lusail,Qatar
+Al Bayt Stadium,Al Khor,Qatar
+Al Thakira Mangroves,Al Khor,Qatar
+Purple Island (Al Khor Island),Al Khor,Qatar
+Al Zubarah Fort,Al Zubarah,Qatar
+Al Zubarah Archaeological Site,Al Zubarah,Qatar
+Al Wakrah Souq,Al Wakrah,Qatar
+Al Wakrah Beach,Al Wakrah,Qatar
+Sealine Beach Resort,Mesaieed,Qatar
+Inland Sea (Khor Al Adaid),Mesaieed,Qatar
+Banana Island Resort,Doha,Qatar
+Simaisma Beach,Muaither,Qatar
+Fuwairit Beach,Fuwairit,Qatar
+Al Jassasiya Rock Carvings,Al Jassasiya,Qatar
+Barzan Towers,Umm Salal Mohammed,Qatar
+Umm Salal Mohammed Fort,Umm Salal Mohammed,Qatar
+Al Rakiyat Fort,Al Rakiyat,Qatar
+Al Wajbah Fort,Al Wajbah,Qatar
+Al Khuwair Park,Doha,Qatar
+Aspire Park,Doha,Qatar
+Museum of Illusions,Doha,Qatar
+Qatar Olympic and Sports Museum,Doha,Qatar
+Fire Station Artist in Residence,Doha,Qatar
+Qatar National Convention Centre,Doha,Qatar
+Torch Tower,Doha,Qatar
+Al Hazm Mall,Doha,Qatar
+Angry Birds World,Doha,Qatar
+Aqua Park Qatar,Doha,Qatar
+Doha Golf Club,Doha,Qatar
+Education City Golf Club,Doha,Qatar
+Kuwait Towers,Kuwait City,Kuwait
+The Avenues Mall,Kuwait City,Kuwait
+Grand Mosque,Kuwait City,Kuwait
+Souq Al-Mubarakiya,Kuwait City,Kuwait
+Liberation Tower,Kuwait City,Kuwait
+Sheikh Jaber Al-Ahmad Cultural Centre,Kuwait City,Kuwait
+Scientific Center,Kuwait City,Kuwait
+Marina Crescent,Salmiya,Kuwait
+360 Mall,Kuwait City,Kuwait
+Al Shaheed Park,Kuwait City,Kuwait
+Kuwait National Museum,Kuwait City,Kuwait
+Tareq Rajab Museum,Kuwait City,Kuwait
+Mirror House,Kuwait City,Kuwait
+Green Island,Kuwait City,Kuwait
+Failaka Island,Kuwait Bay,Kuwait
+Al Kout Beach Mall,Fahaheel,Kuwait
+Al Hamra Tower,Kuwait City,Kuwait
+Kuwait Opera House,Kuwait City,Kuwait
+Doha Village,Kuwait City,Kuwait
+Sheikh Abdullah Al Salem Cultural Centre,Kuwait City,Kuwait
+Al Corniche,Salmiya,Kuwait
+Marina Mall,Salmiya,Kuwait
+Boulevard Mall,Kuwait City,Kuwait
+The Gate Mall,Kuwait City,Kuwait
+Sheikh Jaber Al-Ahmad Stadium,Kuwait City,Kuwait
+Al Hashemi Marine Museum,Kuwait City,Kuwait
+Kuwait Zoo,Kuwait City,Kuwait
+Aqua Park,Kuwait City,Kuwait
+Entertainment City,Kuwait City,Kuwait
+Al Sha'ab Leisure Park,Kuwait City,Kuwait
+Messilah Beach,Messilah,Kuwait
+Al Kout Fishing Village,Fahaheel,Kuwait
+Scientific Center Aquarium,Kuwait City,Kuwait
+Kuwait House of National Works,Kuwait City,Kuwait
+Al Qurain Martyrs Museum,Kuwait City,Kuwait
+Kuwait Red Fort,Jahra,Kuwait
+Jahra Nature Reserve,Jahra,Kuwait
+Al Abraq Garden,Jahra,Kuwait
+Al Tahrir Square,Kuwait City,Kuwait
+Al Salam Palace,Kuwait City,Kuwait
+Kuwait International Airport,Kuwait City,Kuwait
+Al Shaheed Monument,Kuwait City,Kuwait
+Al Hamra Luxury Village,Kuwait City,Kuwait
+Al Fanar Mall,Kuwait City,Kuwait
+Al Manshar Rotana Hotel,Kuwait City,Kuwait
+Al Mubarakiya Tower,Kuwait City,Kuwait
+Al Seef Hospital,Kuwait City,Kuwait
+Al Wafra Farms,Al Wafra,Kuwait
+Al Zour Refinery,Al Zour,Kuwait
+Sabah Al Ahmad Sea City,Al Khiran,Kuwait
+Sydney Opera House,Sydney,Australia  
+Sydney Harbour Bridge,Sydney,Australia  
+Bondi Beach,Sydney,Australia  
+Royal Botanic Garden Sydney,Sydney,Australia  
+Taronga Zoo,Sydney,Australia  
+The Rocks,Sydney,Australia  
+Darling Harbour,Sydney,Australia  
+Blue Mountains National Park,Sydney,Australia  
+Sea Life Sydney Aquarium,Sydney,Australia  
+Luna Park,Sydney,Australia  
+Melbourne Cricket Ground,Melbourne,Australia  
+Federation Square,Melbourne,Australia  
+Royal Exhibition Building,Melbourne,Australia  
+Queen Victoria Market,Melbourne,Australia  
+Great Ocean Road,Victoria,Australia  
+Twelve Apostles,Victoria,Australia  
+Phillip Island Penguin Parade,Victoria,Australia  
+Yarra Valley,Victoria,Australia  
+Brighton Beach Boxes,Melbourne,Australia  
+Royal Botanic Gardens Victoria,Melbourne,Australia  
+Great Barrier Reef,Queensland,Australia  
+Whitsunday Islands,Queensland,Australia  
+Whitehaven Beach,Queensland,Australia  
+Daintree Rainforest,Queensland,Australia  
+Cairns Esplanade,Cairns,Australia  
+Kuranda Scenic Railway,Queensland,Australia  
+Gold Coast Theme Parks,Gold Coast,Australia  
+Surfers Paradise,Gold Coast,Australia  
+Lone Pine Koala Sanctuary,Brisbane,Australia  
+South Bank Parklands,Brisbane,Australia  
+Story Bridge,Brisbane,Australia  
+Fraser Island,Queensland,Australia  
+Uluru-Kata Tjuta National Park,Northern Territory,Australia  
+Kings Canyon,Northern Territory,Australia  
+Kakadu National Park,Northern Territory,Australia  
+Alice Springs Desert Park,Northern Territory,Australia  
+Darwin Waterfront,Darwin,Australia  
+Mindil Beach Sunset Market,Darwin,Australia  
+Barossa Valley,South Australia,Australia  
+Adelaide Central Market,Adelaide,Australia  
+Kangaroo Island,South Australia,Australia  
+Cleland Wildlife Park,Adelaide,Australia  
+Adelaide Botanic Garden,Adelaide,Australia  
+Rottnest Island,Western Australia,Australia  
+Perth Kings Park,Perth,Australia  
+Swan Valley,Perth,Australia  
+Margaret River,Western Australia,Australia  
+Ningaloo Reef,Western Australia,Australia  
+Pinnacles Desert,Western Australia,Australia  
+Cable Beach,Broome,Australia  
+Hobart Waterfront,Hobart,Australia  
+MONA (Museum of Old and New Art),Hobart,Australia  
+Port Arthur Historic Site,Tasmania,Australia  
+Cradle Mountain-Lake St Clair National Park,Tasmania,Australia  
+Freycinet National Park,Tasmania,Australia  
+Bridestowe Lavender Estate,Tasmania,Australia  
+Canberra Parliament House,Canberra,Australia  
+Australian War Memorial,Canberra,Australia  
+National Gallery of Australia,Canberra,Australia  
+Questacon,Canberra,Australia  
+Byron Bay Lighthouse,Byron Bay,Australia  
+Nimbin,New South Wales,Australia  
+Hunter Valley,New South Wales,Australia  
+Port Stephens,New South Wales,Australia  
+Jenolan Caves,New South Wales,Australia  
+Lord Howe Island,New South Wales,Australia  
+Kiama Blowhole,New South Wales,Australia  
+Australian Reptile Park,New South Wales,Australia  
+Coober Pedy,South Australia,Australia  
+Flinders Ranges,South Australia,Australia  
+Great Alpine Road,Victoria,Australia  
+Grampians National Park,Victoria,Australia  
+Puffing Billy Railway,Victoria,Australia  
+Mornington Peninsula,Victoria,Australia  
+Eureka Skydeck,Melbourne,Australia  
+Litchfield National Park,Northern Territory,Australia  
+Nitmiluk National Park,Northern Territory,Australia  
+Arnhem Land,Northern Territory,Australia  
+Wave Rock,Western Australia,Australia  
+Valley of the Giants,Western Australia,Australia  
+Kalgoorlie Super Pit,Western Australia,Australia  
+Esperance Pink Lake,Western Australia,Australia  
+Karijini National Park,Western Australia,Australia  
+Bruny Island,Tasmania,Australia  
+Bay of Fires,Tasmania,Australia  
+Tasman Arch,Tasmania,Australia  
+Mount Wellington,Hobart,Australia  
+Bicheno Penguin Tours,Tasmania,Australia  
+Kosciuszko National Park,New South Wales,Australia  
+Snowy Mountains,New South Wales,Australia  
+Jervis Bay,New South Wales,Australia  
+Dorrigo National Park,New South Wales,Australia  
+Australian National Botanic Gardens,Canberra,Australia  
+Tidbinbilla Nature Reserve,Canberra,Australia  
+Lamington National Park,Queensland,Australia  
+Noosa Everglades,Queensland,Australia  
+Atherton Tablelands,Queensland,Australia  
+Moreton Island,Queensland,Australia  
+Tangalooma Island Resort,Queensland,Australia  
+Boodjamulla National Park,Queensland,Australia 
+Eiffel Tower,France,France|Iconic
+Louvre Museum,France,France|Cultural
+Notre-Dame Cathedral,France,France|Historical
+Mont Saint-Michel,France,France|Historical
+Palace of Versailles,France,France|Royal
+Provence Lavender Fields,France,France|Nature
+French Riviera (Côte d'Azur),France,France|Beach
+Chamonix-Mont-Blanc,France,France|Adventure
+Loire Valley Châteaux,France,France|Historical
+Arc de Triomphe,France,France|Iconic
+Sainte-Chapelle,France,France|Historical
+Musée d'Orsay,France,France|Cultural
+Moulin Rouge,France,France|Entertainment
+Disneyland Paris,France,France|Family
+Giverny (Monet's Garden),France,France|Cultural
+Normandy D-Day Beaches,France,France|Historical
+Pont du Gard,France,France|Historical
+Carcassonne,France,France|Historical
+Annecy,France,France|Scenic
+Strasbourg Petite France,France,France|Scenic
+Avignon Papal Palace,France,France|Historical
+Bordeaux Wine Region,France,France|Gastronomy
+Lourdes Sanctuary,France,France|Religious
+Les Calanques (Marseille),France,France|Nature
+Gorges du Verdon,France,France|Nature
+Saint-Tropez,France,France|Beach
+Burgundy Vineyards,France,France|Gastronomy
+Reims Cathedral,France,France|Historical
+Cannes Film Festival,France,France|Entertainment
+Aix-en-Provence,France,France|Cultural
+Colmar Old Town,France,France|Scenic
+Château de Chambord,France,France|Historical
+Dune du Pilat,France,France|Nature
+Luxembourg Gardens,France,France|Scenic
+Musée de l'Orangerie,France,France|Cultural
+Père Lachaise Cemetery,France,France|Cultural
+Sacré-Cœur Basilica,France,France|Religious
+Opéra Garnier,France,France|Cultural
+Saint-Émilion,France,France|Gastronomy
+Les Baux-de-Provence,France,France|Historical
+Rouen Cathedral,France,France|Historical
+Chenonceau Castle,France,France|Historical
+Verdun Battlefields,France,France|Historical
+Les Machines de l'Île (Nantes),France,France|Unique
+Biarritz,France,France|Beach
+Camargue Natural Park,France,France|Nature
+Chartres Cathedral,France,France|Historical
+Vieux Lyon,France,France|Historical
+Saint-Malo,France,France|Scenic
+Alsace Wine Route,France,France|Gastronomy
+Jungfraujoch,Bernese Oberland,Switzerland
+Matterhorn,Zermatt,Switzerland
+Château de Chillon,Montreux,Switzerland
+Kapellbrücke,Lucerne,Switzerland
+Rhine Falls,Schaffhausen,Switzerland
+Zürich Old Town,Zürich,Switzerland
+Jungfrau Region,Bernese Oberland,Switzerland
+Aletsch Glacier,Valais,Switzerland
+Lake Geneva,Geneva,Switzerland
+Mount Pilatus,Lucerne,Switzerland
+Mount Titlis,Engelberg,Switzerland
+Lavaux Vineyards,Lake Geneva,Switzerland
+Bern Old Town,Bern,Switzerland
+Zermatt Village,Zermatt,Switzerland
+St. Moritz,Engadin,Switzerland
+Interlaken,Bernese Oberland,Switzerland
+Grindelwald,Bernese Oberland,Switzerland
+Lauterbrunnen Valley,Bernese Oberland,Switzerland
+Trümmelbach Falls,Bernese Oberland,Switzerland
+Schilthorn,Bernese Oberland,Switzerland
+Swiss National Park,Engadin,Switzerland
+Lake Lucerne,Lucerne,Switzerland
+Rigi Mountain,Lucerne,Switzerland
+Geneva Water Fountain,Geneva,Switzerland
+United Nations Office,Geneva,Switzerland
+Jet d'Eau,Geneva,Switzerland
+Montreux Jazz Festival,Montreux,Switzerland
+Glacier 3000,Les Diablerets,Switzerland
+Gornergrat,Zermatt,Switzerland
+Zürich Lake,Zürich,Switzerland
+Uetliberg Mountain,Zürich,Switzerland
+Swiss Museum of Transport,Lucerne,Switzerland
+Verzasca Valley,Ticino,Switzerland
+Ascona,Ticino,Switzerland
+Lugano,Ticino,Switzerland
+Bellinzona Castles,Ticino,Switzerland
+Lake Maggiore,Ticino,Switzerland
+Lake Lugano,Ticino,Switzerland
+Appenzell,Appenzell Innerrhoden,Switzerland
+Säntis Mountain,Appenzell,Switzerland
+St. Gallen Abbey,St. Gallen,Switzerland
+Fribourg Old Town,Fribourg,Switzerland
+Gruyères Village,Fribourg,Switzerland
+Cailler Chocolate Factory,Broc,Switzerland
+Lavaux Wine Terraces,Lake Geneva,Switzerland
+Oberhofen Castle,Bernese Oberland,Switzerland
+Thun Castle,Bernese Oberland,Switzerland
+Simmental Valley,Bernese Oberland,Switzerland
+Creux du Van,Neuchâtel,Switzerland
+Neuchâtel Castle,Neuchâtel,Switzerland
+Basel Minster,Basel,Switzerland
+Basel Zoo,Basel,Switzerland
+Fondation Beyeler,Basel,Switzerland
+Rhine River Cruise,Basel,Switzerland
+Aare Gorge,Meiringen,Switzerland
+Rosenlaui Glacier Gorge,Bernese Oberland,Switzerland
+St. Beatus Caves,Interlaken,Switzerland
+Blausee Lake,Kandersteg,Switzerland
+Oeschinensee Lake,Kandersteg,Switzerland
+Schynige Platte,Bernese Oberland,Switzerland
+Brienz Rothorn Railway,Brienz,Switzerland
+Giessbach Falls,Brienz,Switzerland
+Stoos Ridge,Schwyz,Switzerland
+Rütli Meadow,Uri,Switzerland
+Andermatt Ski Resort,Uri,Switzerland
+Arosa Ski Resort,Graubünden,Switzerland
+Davos,Graubünden,Switzerland
+Klosters,Graubünden,Switzerland
+Engadin Valley,Graubünden,Switzerland
+Bernina Express Route,Graubünden,Switzerland
+Albula Railway Line,Graubünden,Switzerland
+Landwasser Viaduct,Graubünden,Switzerland
+Heidiland,St. Gallen,Switzerland
+Rheinfall Neuhausen,Schaffhausen,Switzerland
+Stein am Rhein,Schaffhausen,Switzerland
+Frauenfeld Castle,Thurgau,Switzerland
+Conny-Land,Lipperswil,Switzerland
+Swiss Vapeur Parc,Le Bouveret,Switzerland
+Aquaparc,Le Bouveret,Switzerland
+Charlie Chaplin Museum,Vevey,Switzerland
+Olympic Museum,Lausanne,Switzerland
+Lavaux Express,Cully,Switzerland
+Château d'Oex,Gruyères,Switzerland
+Gstaad Palace,Gstaad,Switzerland
+Lenk Ski Resort,Lenk,Switzerland
+Adelboden Ski Resort,Adelboden,Switzerland
+Les Diablerets Ski Resort,Vaud,Switzerland
+Leysin Ski Resort,Vaud,Switzerland
+Villars Ski Resort,Vaud,Switzerland
+Glacier des Diablerets,Vaud,Switzerland
+Les Avants,Montreux,Switzerland
+Rochers-de-Naye,Montreux,Switzerland
+Swissminiatur,Melide,Switzerland
+Monte Generoso,Ticino,Switzerland
+Val Verzasca,Ticino,Switzerland
+Foroglio Waterfall,Ticino,Switzerland
+Soglio Village,Graubünden,Switzerland
+Splügen Pass,Graubünden,Switzerland
+San Bernardino Pass,Graubünden,Switzerland
+Grimsel Pass,Bernese Oberland,Switzerland
+Furka Pass,Uri,Switzerland
+Susten Pass,Bernese Oberland,Switzerland
+Gotthard Pass,Ticino,Switzerland
+Tbilisi Old Town,Tbilisi,Georgia
+Narikala Fortress,Tbilisi,Georgia
+Sioni Cathedral,Tbilisi,Georgia
+Sameba Cathedral,Tbilisi,Georgia
+Rustaveli Avenue,Tbilisi,Georgia
+Georgian National Museum,Tbilisi,Georgia
+Sulfur Baths,Tbilisi,Georgia
+Mtatsminda Park,Tbilisi,Georgia
+Chronicle of Georgia,Tbilisi,Georgia
+Dry Bridge Market,Tbilisi,Georgia
+Mtskheta Historical Sites,Mtskheta,Georgia
+Svetitskhoveli Cathedral,Mtskheta,Georgia
+Jvari Monastery,Mtskheta,Georgia
+Shio-Mgvime Monastery,Mtskheta,Georgia
+Uplistsikhe Cave Town,Gori,Georgia
+Gori Fortress,Gori,Georgia
+Stalin Museum,Gori,Georgia
+Kazbegi Mountain,Stepantsminda,Georgia
+Gergeti Trinity Church,Stepantsminda,Georgia
+Dariali Gorge,Stepantsminda,Georgia
+Shatili Fortress Village,Khevsureti,Georgia
+Ananuri Fortress,Ananuri,Georgia
+Gudauri Ski Resort,Gudauri,Georgia
+Sno Valley,Stepantsminda,Georgia
+Borjomi Central Park,Borjomi,Georgia
+Borjomi-Kharagauli National Park,Borjomi,Georgia
+Rabati Castle,Akhaltsikhe,Georgia
+Vardzia Cave Monastery,Aspindza,Georgia
+Khertvisi Fortress,Aspindza,Georgia
+Bakuriani Ski Resort,Bakuriani,Georgia
+Bakuriani Alpine Coaster,Bakuriani,Georgia
+Martvili Canyon,Martvili,Georgia
+Okatse Canyon,Khoni,Georgia
+Kinchkha Waterfall,Khoni,Georgia
+Prometheus Cave,Tskaltubo,Georgia
+Sataplia Nature Reserve,Kutaisi,Georgia
+Bagrati Cathedral,Kutaisi,Georgia
+Gelati Monastery,Kutaisi,Georgia
+Motsameta Monastery,Kutaisi,Georgia
+Sairme Resort,Sairme,Georgia
+Chiatura Cable Cars,Chiatura,Georgia
+Katskhi Pillar,Chiatura,Georgia
+Tskaltubo Spa Resort,Tskaltubo,Georgia
+Gagra Beach,Gagra,Abkhazia
+Pitsunda Cathedral,Pitsunda,Abkhazia
+New Athos Cave,New Athos,Abkhazia
+Sukhumi Botanical Garden,Sukhumi,Abkhazia
+Svaneti Region,Mestia,Georgia
+Ushguli Village,Mestia,Georgia
+Svaneti Museum of History,Mestia,Georgia
+Koruldi Lakes,Mestia,Georgia
+Belgrade Fortress,Belgrade,Serbia
+Kalemegdan Park,Belgrade,Serbia
+St. Sava Temple,Belgrade,Serbia
+Skadarlija,Belgrade,Serbia
+Nikola Tesla Museum,Belgrade,Serbia
+Ada Ciganlija,Belgrade,Serbia
+Knez Mihailova Street,Belgrade,Serbia
+Zemun Quarter,Belgrade,Serbia
+Avala Tower,Belgrade,Serbia
+House of Flowers,Belgrade,Serbia
+Novi Sad Petrovaradin Fortress,Novi Sad,Serbia
+Exit Festival,Novi Sad,Serbia
+Liberty Square,Novi Sad,Serbia
+Danube Park,Novi Sad,Serbia
+Fruška Gora National Park,Novi Sad,Serbia
+Đavolja Varoš,Kuršumlija,Serbia
+Studenica Monastery,Kraljevo,Serbia
+Žiča Monastery,Kraljevo,Serbia
+Maglič Fortress,Kraljevo,Serbia
+Golubac Fortress,Golubac,Serbia
+Đerdap National Park,Donji Milanovac,Serbia
+Lepenski Vir,Donji Milanovac,Serbia
+Viminacium,Pozarevac,Serbia
+Felix Romuliana,Gamzigrad,Serbia
+Tara National Park,Bajina Bašta,Serbia
+Drina River House,Bajina Bašta,Serbia
+Uvac Canyon,Nova Varoš,Serbia
+Stopića Cave,Sirogojno,Serbia
+Sirogojno Open Air Museum,Sirogojno,Serbia
+Zlatibor Mountain,Zlatibor,Serbia
+Kopaonik National Park,Kopaonik,Serbia
+Niš Fortress,Niš,Serbia
+Ćele Kula,Niš,Serbia
+Mediana Archaeological Site,Niš,Serbia
+Subotica City Hall,Subotica,Serbia
+Palić Lake,Subotica,Serbia
+Vrnjačka Banja,Vrnjačka Banja,Serbia
+Sokobanja,Sokobanja,Serbia
+Rajac Wine Cellars,Negotin,Serbia
+Silver Lake,Veliko Gradište,Serbia
+Resava Cave,Despotovac,Serbia
+Manasija Monastery,Despotovac,Serbia
+Ravanica Monastery,Cuprija,Serbia
+Smederevo Fortress,Smederevo,Serbia
+Oplenac Royal Complex,Topola,Serbia
+Takovo Monastery,Gornji Milanovac,Serbia
+Ovčar-Kablar Gorge,Čačak,Serbia
+Vršac Castle,Vršac,Serbia
+Deliblato Sands,Kovin,Serbia
+Kovilj Monastery,Novi Sad,Serbia
+Fruška Gora Monasteries,Novi Sad,Serbia
+Tiger's Nest Monastery,Paro,Bhutan
+Rinpung Dzong,Paro,Bhutan
+National Museum of Bhutan,Paro,Bhutan
+Drukgyel Dzong,Paro,Bhutan
+Kyichu Lhakhang,Paro,Bhutan
+Chele La Pass,Paro,Bhutan
+Tachogang Lhakhang,Paro,Bhutan
+Dochula Pass,Thimphu,Bhutan
+Tashichho Dzong,Thimphu,Bhutan
+Buddha Dordenma Statue,Thimphu,Bhutan
+National Memorial Chorten,Thimphu,Bhutan
+Folk Heritage Museum,Thimphu,Bhutan
+Simply Bhutan Museum,Thimphu,Bhutan
+Changangkha Lhakhang,Thimphu,Bhutan
+Weekend Market,Thimphu,Bhutan
+Punakha Dzong,Punakha,Bhutan
+Chimi Lhakhang,Punakha,Bhutan
+Khamsum Yulley Namgyal Chorten,Punakha,Bhutan
+Mo Chhu River,Punakha,Bhutan
+Pho Chhu Suspension Bridge,Punakha,Bhutan
+Gangtey Monastery,Phobjikha Valley,Bhutan
+Phobjikha Valley,Phobjikha Valley,Bhutan
+Black-necked Crane Center,Phobjikha Valley,Bhutan
+Trongsa Dzong,Trongsa,Bhutan
+Ta Dzong Museum,Trongsa,Bhutan
+Chendebji Chorten,Trongsa,Bhutan
+Jakar Dzong,Bumthang,Bhutan
+Kurjey Lhakhang,Bumthang,Bhutan
+Jambay Lhakhang,Bumthang,Bhutan
+Tamshing Lhakhang,Bumthang,Bhutan
+Mebar Tsho (Burning Lake),Bumthang,Bhutan
+Ura Valley,Bumthang,Bhutan
+Lhuentse Dzong,Lhuentse,Bhutan
+Singye Dzong,Lhuentse,Bhutan
+Mongar Dzong,Mongar,Bhutan
+Drametse Monastery,Mongar,Bhutan
+Trashigang Dzong,Trashigang,Bhutan
+Gom Kora,Trashigang,Bhutan
+Radhi Village,Trashigang,Bhutan
+Samdrup Jongkhar Town,Samdrup Jongkhar,Bhutan
+Zangto Pelri Lhakhang,Samdrup Jongkhar,Bhutan
+Sakteng Wildlife Sanctuary,Trashigang,Bhutan
+Merak Village,Trashigang,Bhutan
+Sephu Village,Wangdue Phodrang,Bhutan
+Wangdue Phodrang Dzong,Wangdue Phodrang,Bhutan
+Daga Dzong,Dagana,Bhutan
+Haa Valley,Haa,Bhutan
+Lhakhang Karpo,Haa,Bhutan
+Lhakhang Nagpo,Haa,Bhutan
+Torsa Strict Nature Reserve,Paro,Bhutan
+Royal Manas National Park,Pemagatshel,Bhutan
+Victoria Peak,Hong Kong Island,Hong Kong
+Star Ferry,Kowloon,Hong Kong
+Tsim Sha Tsui Promenade,Kowloon,Hong Kong
+Hong Kong Disneyland,Lantau Island,Hong Kong
+Ocean Park,Hong Kong Island,Hong Kong
+Ngong Ping 360,Lantau Island,Hong Kong
+Tian Tan Buddha,Lantau Island,Hong Kong
+Lan Kwai Fong,Hong Kong Island,Hong Kong
+Temple Street Night Market,Kowloon,Hong Kong
+Lady Market,Mong Kok,Hong Kong
+Hong Kong Museum of History,Kowloon,Hong Kong
+Avenue of Stars,Kowloon,Hong Kong
+Clock Tower,Kowloon,Hong Kong
+Hong Kong Space Museum,Kowloon,Hong Kong
+PMQ,Hong Kong Island,Hong Kong
+Man Mo Temple,Hong Kong Island,Hong Kong
+Wong Tai Sin Temple,Kowloon,Hong Kong
+Chi Lin Nunnery,Kowloon,Hong Kong
+Nan Lian Garden,Kowloon,Hong Kong
+Hong Kong Park,Hong Kong Island,Hong Kong
+Victoria Harbour,Hong Kong Island,Hong Kong
+Repulse Bay,Hong Kong Island,Hong Kong
+Stanley Market,Hong Kong Island,Hong Kong
+Aberdeen Floating Village,Hong Kong Island,Hong Kong
+Lamma Island,Outlying Islands,Hong Kong
+Cheung Chau Island,Outlying Islands,Hong Kong
+Dragon's Back,Hong Kong Island,Hong Kong
+Lion Rock,Kowloon,Hong Kong
+Ten Thousand Buddhas Monastery,New Territories,Hong Kong
+Tai O Fishing Village,Lantau Island,Hong Kong
+Hong Kong Wetland Park,New Territories,Hong Kong
+Sai Kung,New Territories,Hong Kong
+Shek O,Hong Kong Island,Hong Kong
+Hong Kong Zoological and Botanical Gardens,Hong Kong Island,Hong Kong
+Flagstaff House Museum of Tea Ware,Hong Kong Island,Hong Kong
+Hong Kong Observation Wheel,Hong Kong Island,Hong Kong
+Tai Kwun,Hong Kong Island,Hong Kong
+M+,Kowloon,Hong Kong
+Hong Kong Palace Museum,Kowloon,Hong Kong
+Golden Bauhinia Square,Hong Kong Island,Hong Kong
+Noonday Gun,Hong Kong Island,Hong Kong
+Blue House,Hong Kong Island,Hong Kong
+Tai Ping Shan Street,Hong Kong Island,Hong Kong
+Pottinger Street,Hong Kong Island,Hong Kong
+Cat Street,Hong Kong Island,Hong Kong
+Lok Ma Chau Lookout Point,New Territories,Hong Kong
+Ma Wan Park,Lantau Island,Hong Kong
+Hong Kong Science Museum,Kowloon,Hong Kong
+Mong Kok Computer Centre,Kowloon,Hong Kong
+Symphony of Lights,Hong Kong Island,Hong Kong
+Red Square,Russia,Russia|Iconic
+Saint Basil's Cathedral,Russia,Russia|Iconic
+The Kremlin,Russia,Russia|Historical
+Hermitage Museum,Russia,Russia|Cultural
+Peterhof Palace,Russia,Russia|Royal
+Lake Baikal,Russia,Russia|Nature
+Trans-Siberian Railway,Russia,Russia|Adventure
+Kizhi Island,Russia,Russia|Historical
+Valley of Geysers,Russia,Russia|Nature
+Mount Elbrus,Russia,Russia|Adventure
+Bolshoi Theatre,Russia,Russia|Cultural
+Suzdal,Russia,Russia|Historical
+Saint Isaac's Cathedral,Russia,Russia|Religious
+Catherine Palace,Russia,Russia|Royal
+Moscow Metro,Russia,Russia|Unique
+Golden Ring,Russia,Russia|Historical
+Kazan Kremlin,Russia,Russia|Historical
+Olkhon Island,Russia,Russia|Nature
+Mamayev Kurgan,Russia,Russia|Historical
+Winter Palace,Russia,Russia|Royal
+Church of the Savior on Spilled Blood,Russia,Russia|Religious
+Kamchatka Volcanoes,Russia,Russia|Nature
+Altai Mountains,Russia,Russia|Nature
+Dargavs (City of the Dead),Russia,Russia|Unique
+Lenin's Mausoleum,Russia,Russia|Historical
+Tretyakov Gallery,Russia,Russia|Cultural
+Arbat Street,Russia,Russia|Cultural
+Sochi,Russia,Russia|Beach
+Ruskeala Mountain Park,Russia,Russia|Nature
+Kolomenskoye,Russia,Russia|Historical
+VDNKh,Russia,Russia|Cultural
+Zaryadye Park,Russia,Russia|Scenic
+GUM Department Store,Russia,Russia|Shopping
+Novodevichy Convent,Russia,Russia|Religious
+Yekaterinburg,Russia,Russia|Historical
+Murmansk (Northern Lights),Russia,Russia|Nature
+Volga River Cruise,Russia,Russia|Adventure
+Pushkin,Russia,Russia|Historical
+Vyborg,Russia,Russia|Historical
+Kronstadt,Russia,Russia|Historical
+Peter and Paul Fortress,Russia,Russia|Historical
+Moscow State University,Russia,Russia|Academic
+Skolkovo Innovation Center,Russia,Russia|Modern
+Cosmonautics Museum,Russia,Russia|Scientific
+Gorky Park,Russia,Russia|Scenic
+Tsaritsyno Museum-Reserve,Russia,Russia|Historical
+Sparrow Hills,Russia,Russia|Scenic
+Baikonur Cosmodrome,Russia,Russia|Scientific
+Amber Room,Russia,Russia|Cultural
+White Nights Festival,Russia,Russia|Event
+Moscow International Film Festival,Russia,Russia|Event
+Mount Everest Base Camp,Nepal,Nepal|Adventure
+Annapurna Circuit,Nepal,Nepal|Adventure
+Pashupatinath Temple,Nepal,Nepal|Religious
+Boudhanath Stupa,Nepal,Nepal|Religious
+Swayambhunath (Monkey Temple),Nepal,Nepal|Religious
+Kathmandu Durbar Square,Nepal,Nepal|Cultural
+Bhaktapur Durbar Square,Nepal,Nepal|Cultural
+Patan Durbar Square,Nepal,Nepal|Cultural
+Chitwan National Park,Nepal,Nepal|Wildlife
+Bardia National Park,Nepal,Nepal|Wildlife
+Pokhara Lakeside,Nepal,Nepal|Scenic
+Sarangkot Sunrise View,Nepal,Nepal|Nature
+Davis Falls,Nepal,Nepal|Nature
+Begnas Lake,Nepal,Nepal|Nature
+Lumbini (Birthplace of Buddha),Nepal,Nepal|Pilgrimage
+Langtang Valley Trek,Nepal,Nepal|Adventure
+Manaslu Circuit,Nepal,Nepal|Adventure
+Upper Mustang,Nepal,Nepal|Adventure
+Rara Lake,Nepal,Nepal|Nature
+Gosaikunda Lake,Nepal,Nepal|Religious
+Nagarkot Viewpoint,Nepal,Nepal|Nature
+Tilicho Lake,Nepal,Nepal|Adventure
+Kopan Monastery,Nepal,Nepal|Spiritual
+Shey Phoksundo National Park,Nepal,Nepal|Wildlife
+Khaptad National Park,Nepal,Nepal|Wildlife
+Ilam Tea Gardens,Nepal,Nepal|Scenic
+Tansen Town,Nepal,Nepal|Cultural
+Bandipur Village,Nepal,Nepal|Cultural
+Gorkha Durbar,Nepal,Nepal|Historical
+Janakpur (Mithila Art),Nepal,Nepal|Cultural
+Muktinath Temple,Nepal,Nepal|Pilgrimage
+Daman View Tower,Nepal,Nepal|Scenic
+Dhulikhel,Nepal,Nepal|Scenic
+Namo Buddha,Nepal,Nepal|Spiritual
+Helambu Trek,Nepal,Nepal|Adventure
+Ghorepani Poon Hill Trek,Nepal,Nepal|Adventure
+Everest View Hotel,Nepal,Nepal|Scenic
+International Mountain Museum,Nepal,Nepal|Cultural
+Garden of Dreams,Nepal,Nepal|Scenic
+Thamel District,Nepal,Nepal|Cultural
